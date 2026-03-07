@@ -36,7 +36,7 @@ These files contain key product attributes such as:
 
 
 Each product has a unique product number, which allows missing attributes to be matched and appended to the Tableau export files.
-
+During this stage, basic **data cleaning and validation** is also performed to ensure data consistency. This includes checking for missing values, verifying product identifiers, standardizing attribute formats, and removing inconsistencies between the exported datasets and the reference product lists.
 
 ## ⚙️ Product Data Management
 
@@ -69,5 +69,13 @@ Despite being simulated, the dataset preserves realistic business logic and allo
 
 - **Microsoft Excel** – used to prepare the business results file, integrate datasets, and structure the analytical model.
 - **AI (ChatGPT)** – used to generate the simulated dataset included in the **"data"** worksheet.
+
+
+
+
+
+
+
+
 
 
