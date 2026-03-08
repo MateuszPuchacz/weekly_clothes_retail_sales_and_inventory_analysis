@@ -212,6 +212,26 @@ Year-over-Year percentage change measures the relative growth or decline between
 ```
 
  
+## 🎨 Conditional Formatting
 
+Conditional formatting was applied to the Year-over-Year indicators:
 
+- Prog %
 
+- Prog Value
+
+Negative values are automatically highlighted in red, which allows users to quickly identify declines in performance compared to the previous year.
+
+This visual rule helps highlight situations where:
+
+- stock decreased
+
+- sales dropped
+
+- resale performance weakened
+
+By automatically emphasizing negative changes, the report makes it easier to detect potential issues in inventory or sales dynamics without manually reviewing each value.
+
+```
+Conditional rule: Value < 0 → red text
+```
