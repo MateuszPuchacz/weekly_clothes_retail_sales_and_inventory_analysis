@@ -73,9 +73,10 @@ Despite being simulated, the dataset preserves realistic business logic and allo
 
 ## ⚙️ Excel Report Automation Logic
 
-**REPORT1** sheet contains the main automated dashboard presenting weekly stock and sales performance.
-The report combines data from two pivot tables and uses VLOOKUP-based mapping together with calculated Excel metrics to build a structured reporting layer. 
+**REPORT1** 
 
+sheet contains the main automated dashboard presenting weekly stock and sales performance.
+The report combines data from two pivot tables and uses VLOOKUP-based mapping together with calculated Excel metrics to build a structured reporting layer. 
 
 ```
 Raw data
