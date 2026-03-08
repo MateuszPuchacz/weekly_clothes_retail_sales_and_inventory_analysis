@@ -71,13 +71,63 @@ Despite being simulated, the dataset preserves realistic business logic and allo
 - **AI (ChatGPT)** – used to generate the simulated dataset included in the **"data"** worksheet.
 
 
-## 📊 Exploratory Business Analysis 
+## ⚙️ Excel Report Automation Logic
 
-![images1](./images/images1.png)
+REPORT sheet contains the main automated dashboard presenting weekly stock and sales performance.
+The report combines data from two pivot tables and uses VLOOKUP-based mapping together with calculated Excel metrics to build a structured reporting layer. 
 
 
+Two pivot tables act as the data aggregation layer:
+
+tp_cat 
+
+Provides total results by category and feeds the upper section of the dashboard:
+Week & Total currently season
 
 
+This section summarizes overall stock and sales performance.
+
+tp_cat2 
+
+This pivot table provides a more detailed breakdown of the data, including:
+product typology (STD, EXC, COUNTRY, OLD)
+
+The results are structured using category connectors  in columne "A" which allow the dashboard to dynamically retrieve values from the pivot table.
+
+
+**Dynamic Data Retrieval**
+
+The dashboard retrieves values from pivot tables using a dynamic lookup formula:
+
+```
+=IFERROR(VLOOKUP($B7;tp_cat!$A:$AE;C$1;0);" ")
+
+Key elements of this approach:
+
+- $B7 – category used as lookup key
+- tp_cat / tp_cat2 – pivot table data sources
+- C$1 – dynamic column index controlled by header values
+- IFERROR – prevents lookup errors when data is missing
+
+Numbers placed in the header rows act as column index references, allowing the same formula to populate the entire dashboard without manually adjusting column numbers.
+
+```
+
+**Calculated KPI Metrics**
+
+Calculated KPI Metrics
+
+In addition to pivot table values, several key metrics are calculated directly in Excel, including:
+
+```
+Average Purchase Price
+Average Selling Price
+% Resale
+Weeks of Stock
+Year-over-Year change (%)
+Year-over-Year value difference
+```
+These calculations transform raw pivot outputs into business performance indicators.
 
 
 
