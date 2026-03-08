@@ -112,10 +112,11 @@ Key elements of this approach:
 Numbers placed in the header rows act as column index references, allowing the same formula to populate the entire dashboard without manually adjusting column numbers.
 
 
-## **Calculated KPI Metrics**
+## 📈 **Key Retail Metrics Explained**
 
 
-In addition to pivot table values, several key metrics are calculated directly in Excel cells, including:
+The dashboard focuses on several key metrics commonly used in retail inventory and sales analysis.
+These indicators help evaluate stock efficiency, pricing strategy and sales performance.
 
 Average Purchase Price measures the average cost at which products were purchased.
 This metric helps monitor whether procurement costs change over time and supports margin analysis.
