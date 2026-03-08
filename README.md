@@ -121,7 +121,6 @@ Average Purchase Price measures the average cost at which products were purchase
 This metric helps monitor whether procurement costs change over time and supports margin analysis.
 ```
 Total Purchase Value / Stock Quantity
-EXAMPLE:
 2024: =IFERROR(G7/C7;"")
 2025: =IFERROR(H7/D7;"")
 ```
@@ -134,7 +133,6 @@ This KPI helps identify pricing trends and evaluate the effectiveness of pricing
 
 ```
 Total Sales Value / Units Sold
-EXAMPLE:
 2024: =IFERROR(O7/K7;"")
 2025: =IFERROR(P7/L7;"")
 ```
@@ -145,18 +143,16 @@ The Resale Percentage shows what portion of the available stock was sold during 
 
 ```
 Sales Quantity / (Sales Quantity + Stock Quantity)
-EXAMPLE:
 2024: =IFERROR(K7/(K7+C7);"")
 2025: =IFERROR(L7/(L7+D7);"")
 ```
 
 Weeks of Stock (WOS)
 
-Weeks of Stock estimates how many weeks the current inventory can support sales at the current sales pace.
+Weeks of Stock shows how many weeks the current inventory can support sales at the current sales pace.
 
 ```
 Stock Quantity / Weekly Sales
-EXAMPLE:
 2024: =IFERROR(C7/K7;"")
 2025: =IFERROR(D7/L7;"")
 ```
@@ -167,8 +163,20 @@ Year-over-Year value difference shows the absolute change between two periods.
 
 ```
 Current Year Value - Previous Year Value
-EXAMPLE:
 =IFERROR(D7-C7;"")
 ```
+
+Year-over-Year Change (%)
+
+Year-over-Year percentage change measures the relative growth or decline between two periods.
+
+```
+(Current Year Value / Previous Year Value) - 1
+=IFERROR(D7/C7-1;"")
+```
+
+
+
+
 
 
