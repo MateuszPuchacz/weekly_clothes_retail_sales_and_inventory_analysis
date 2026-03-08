@@ -78,15 +78,15 @@ The report combines data from two pivot tables and uses VLOOKUP-based mapping to
 
 
 ```
-Raw Data
+Raw data
    ↓
-Pivot Tables
+Pivot tables (tp_cat / tp_cat2)
    ↓
-VLOOKUP Mapping
+VLOOKUP mapping
    ↓
-Calculated Metrics
+Calculated KPI metrics
    ↓
-Automated Reports
+REPORT dashboard
 ```
 
 Two pivot tables act as the data aggregation layer:
@@ -210,8 +210,7 @@ Year-over-Year percentage change measures the relative growth or decline between
 =IFERROR(D7/C7-1;"")
 ```
 
-
-
+ 
 
 
 
