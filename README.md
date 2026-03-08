@@ -235,3 +235,10 @@ By automatically emphasizing negative changes, the report makes it easier to det
 ```
 Conditional rule: Value < 0 → red text
 ```
+
+
+
+
+
+
+
