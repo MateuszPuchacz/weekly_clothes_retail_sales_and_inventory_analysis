@@ -117,10 +117,10 @@ The dashboard retrieves values from pivot tables using a dynamic lookup formula:
 
 Key elements of this approach:
 
-- $B7 – category used as lookup key
-- tp_cat / tp_cat2 – pivot table data sources
-- C$1 – dynamic column index controlled by header values
-- IFERROR – prevents lookup errors when data is missing
+$B7 – category used as lookup key
+tp_cat / tp_cat2 – pivot table data sources
+C$1 – dynamic column index controlled by header values
+IFERROR – prevents lookup errors when data is missing
 ```
 Numbers placed in the header rows act as column index references, allowing the same formula to populate the entire dashboard without manually adjusting column numbers.
 
