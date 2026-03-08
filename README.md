@@ -95,7 +95,7 @@ product typology (STD, EXC, COUNTRY, OLD)
 The results are structured using category connectors  in columne "A" which allow the dashboard to dynamically retrieve values from the pivot table.
 
 
-**Dynamic Data Retrieval**
+## **Dynamic Data Retrieval**
 
 The dashboard retrieves values from pivot tables using a dynamic lookup formula:
 
