@@ -108,26 +108,67 @@ Key elements of this approach:
 - tp_cat / tp_cat2 – pivot table data sources
 - C$1 – dynamic column index controlled by header values
 - IFERROR – prevents lookup errors when data is missing
-
+```
 Numbers placed in the header rows act as column index references, allowing the same formula to populate the entire dashboard without manually adjusting column numbers.
 
-```
 
 **Calculated KPI Metrics**
 
-Calculated KPI Metrics
 
-In addition to pivot table values, several key metrics are calculated directly in Excel, including:
+In addition to pivot table values, several key metrics are calculated directly in Excel cells, including:
 
+Average Purchase Price measures the average cost at which products were purchased.
+This metric helps monitor whether procurement costs change over time and supports margin analysis.
 ```
-Average Purchase Price
+Total Purchase Value / Stock Quantity
+EXAMPLE:
+2024: =IFERROR(G7/C7;"")
+2025: =IFERROR(H7/D7;"")
+```
+
+
 Average Selling Price
-% Resale
-Weeks of Stock
-Year-over-Year change (%)
-Year-over-Year value difference
-```
-These calculations transform raw pivot outputs into business performance indicators.
 
+Average Selling Price measures the average price at which products were sold.
+This KPI helps identify pricing trends and evaluate the effectiveness of pricing strategies.
+
+```
+Total Sales Value / Units Sold
+EXAMPLE:
+2024: =IFERROR(O7/K7;"")
+2025: =IFERROR(P7/L7;"")
+```
+
+% Resale
+
+The Resale Percentage shows what portion of the available stock was sold during the analyzed period.
+
+```
+Sales Quantity / (Sales Quantity + Stock Quantity)
+EXAMPLE:
+2024: =IFERROR(K7/(K7+C7);"")
+2025: =IFERROR(L7/(L7+D7);"")
+```
+
+Weeks of Stock (WOS)
+
+Weeks of Stock estimates how many weeks the current inventory can support sales at the current sales pace.
+
+```
+Stock Quantity / Weekly Sales
+EXAMPLE:
+2024: =IFERROR(C7/K7;"")
+2025: =IFERROR(D7/L7;"")
+```
+
+Year-over-Year Value Difference
+
+Year-over-Year value difference shows the absolute change between two periods.
+
+```
+Current Year Value - Previous Year Value
+EXAMPLE:
+=IFERROR(D7-C7;"")
+```
 
 
