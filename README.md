@@ -74,7 +74,6 @@ Despite being simulated, the dataset preserves realistic business logic and allo
 ## 📊 Exploratory Business Analysis 
 
 
-![1check](./images/1check.jpg)
 
 
 
