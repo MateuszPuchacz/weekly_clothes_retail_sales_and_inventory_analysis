@@ -73,9 +73,21 @@ Despite being simulated, the dataset preserves realistic business logic and allo
 
 ## ⚙️ Excel Report Automation Logic
 
-REPORT sheet contains the main automated dashboard presenting weekly stock and sales performance.
+**REPORT1** sheet contains the main automated dashboard presenting weekly stock and sales performance.
 The report combines data from two pivot tables and uses VLOOKUP-based mapping together with calculated Excel metrics to build a structured reporting layer. 
 
+
+```
+Raw Data
+   ↓
+Pivot Tables
+   ↓
+VLOOKUP Mapping
+   ↓
+Calculated Metrics
+   ↓
+Automated Reports
+```
 
 Two pivot tables act as the data aggregation layer:
 
@@ -110,6 +122,28 @@ Key elements of this approach:
 - IFERROR – prevents lookup errors when data is missing
 ```
 Numbers placed in the header rows act as column index references, allowing the same formula to populate the entire dashboard without manually adjusting column numbers.
+
+
+
+
+**REPORT2**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 📈 **Key Retail Metrics Explained**
