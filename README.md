@@ -73,6 +73,11 @@ Despite being simulated, the dataset preserves realistic business logic and allo
 
 ## ⚙️ Excel Report Automation Logic
 
+
+While the first report provides a high level overview of inventory and sales performance,
+the second report allows deeper analysis at category, subcategory and store level.
+
+
 ## **REPORT 1** 
 
 sheet contains the main automated dashboard presenting weekly stock and sales performance.
@@ -128,6 +133,7 @@ Numbers placed in the header rows act as column index references, allowing the s
 
 
 ## **REPORT 2**
+
 Detailed Category & Subcategory Report per total & stores
 The second report provides a more granular view of inventory and sales performance, allowing analysis by category, subcategory and individual stores.
 The report is powered by two pivot tables, which act as the data aggregation layer.
