@@ -165,11 +165,6 @@ This approach allows the report to update automatically whenever the pivot table
 The total section always contains a fixed number of rows, ensuring consistent structure for the aggregated view.
 When analyzing individual stores, the number of rows may vary depending on the available data. In cases where fewer rows exist, empty results appear as 0 values, while additional records can be quickly incorporated by extending formulas downward.
 
-Calculated Metrics
-
-Stock Coverage represents the same metric as Weeks of Stock (WOS) used in Report 1. 
-Other calculated metrics follow the same calculation logic as in the first report.
-
 
 Subtotals
 
@@ -243,7 +238,7 @@ The Resale Percentage shows what portion of the available stock was sold during 
 2025: =IFERROR(L7/(L7+D7);"")
 ```
 
-Weeks of Stock (WOS)
+Weeks of Stock (WOS) / Stock Coverage (SC)
 
 Weeks of Stock shows how many weeks the current inventory can support sales at the current sales pace.
 
