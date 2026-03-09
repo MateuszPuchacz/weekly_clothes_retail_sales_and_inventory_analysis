@@ -196,10 +196,9 @@ To analyze a specific store, users simply select the desired store name from the
 For example:
 Selecting Białystok displays the full category and subcategory performance for that store.
 
-Reporting Logic
+**Reporting Logic**
 
 The report follows the structure below:
-
 This structure enables flexible analysis across both overall performance and store-level results.
 
 
