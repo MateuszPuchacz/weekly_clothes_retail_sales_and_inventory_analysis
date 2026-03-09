@@ -95,9 +95,15 @@ This structure allows the Excel file to function as a lightweight reporting syst
 
 ## **REPORT 1** 
 
-sheet contains the main automated dashboard presenting weekly stock and sales performance.
-The report combines data from two pivot tables and uses VLOOKUP-based mapping together with calculated Excel metrics to build a structured reporting layer. 
+## Dashboard Logic:
+The first report acts as the main automated dashboard, presenting a high-level overview of stock and sales performance across product categories.
+The dashboard retrieves aggregated results from pivot tables and transforms them into structured business metrics using lookup formulas and calculated indicators.
 
+Data Retrieval
+
+Data is dynamically retrieved from pivot tables using VLOOKUP formulas with dynamic column references.
+
+This allows the dashboard to automatically update whenever the pivot tables are refreshed while maintaining a consistent report structure.
 
 Two pivot tables act as the data aggregation layer:
 
@@ -133,6 +139,7 @@ IFERROR – prevents lookup errors when data is missing
 ```
 Numbers placed in the header rows act as column index references, allowing the same formula to populate the entire dashboard without manually adjusting column numbers.
 
+This high-level report serves as the starting point for analysis, while the second report enables deeper exploration at category and store level.
 
 
 
