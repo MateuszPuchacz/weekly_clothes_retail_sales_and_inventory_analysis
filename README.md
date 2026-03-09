@@ -155,7 +155,7 @@ Pivot Table Data Sources
 
 Two pivot tables supply the report:
 
-T1
+**T1**
 
 This pivot table provides aggregated results including:
 
@@ -165,9 +165,9 @@ This pivot table provides aggregated results including:
 
 The data from this pivot table feeds the Total view of the report, allowing users to analyze overall performance.
 
-T2
+**T2**
 
-This pivot table contains the same structure as T1 but includes an additional breakdown per store, allowing detailed performance analysis for each location.
+This pivot table contains the same structure as **T1** but includes an additional breakdown per store, allowing detailed performance analysis for each location.
 
 **Direct Cell References**
 
