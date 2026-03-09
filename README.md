@@ -128,23 +128,77 @@ Numbers placed in the header rows act as column index references, allowing the s
 
 
 **REPORT2**
+Detailed Category & Subcategory Report per total & stores
+The second report provides a more granular view of inventory and sales performance, allowing analysis by category, subcategory and individual stores.
+The report is powered by two pivot tables, which act as the data aggregation layer.
 
 
 
+Pivot Table Data Sources
+
+Two pivot tables supply the report:
+
+T1
+
+This pivot table provides aggregated results including:
+
+- product categories
+- subcategories
+- product typologies (STD, EXC, COUNTRY, OLD)
+
+The data from this pivot table feeds the Total view of the report, allowing users to analyze overall performance.
+
+T2
+
+This pivot table contains the same structure as T1 but includes an additional breakdown per store, allowing detailed performance analysis for each location.
+
+## Direct Cell References
+
+Unlike the first dashboard which uses VLOOKUP, this report retrieves data using direct cell references from the pivot tables.
+This approach allows the report to update automatically whenever the pivot tables are refreshed.
+The total section always contains a fixed number of rows, ensuring consistent structure for the aggregated view.
+When analyzing individual stores, the number of rows may vary depending on the available data. In cases where fewer rows exist, empty results appear as 0 values, while additional records can be quickly incorporated by extending formulas downward.
+
+Calculated Metrics
+
+Stock Coverage represents the same metric as Weeks of Stock (WOS) used in Report 1. 
+Other calculated metrics follow the same calculation logic as in the first report.
 
 
+Subtotals
 
+Subtotals were added above the column headers using Excel SUBTOTAL functions, allowing the report to dynamically recalculate totals when filters are applied.
+This enables flexible analysis depending on selected views.
 
+## Report Navigation
 
+The report can be analyzed at two different levels.
 
+**Total View**
 
+By selecting TOTAL in the Store or Store Number filter, users can analyze the overall performance across all stores.
+Subcategory value 0 is excluded from the view, as it represents aggregated totals rather than individual product groups.
 
+**Store-Level View**
+To analyze a specific store, users simply select the desired store name from the filter.
+For example:
+Selecting Białystok displays the full category and subcategory performance for that store.
 
+Reporting Logic
 
-
-
-
-
+The report follows the structure below:
+```
+Raw data
+   ↓
+Pivot tables (T1 / T2)
+   ↓
+Direct cell references
+   ↓
+Calculated metrics
+   ↓
+Detailed category & store report
+```
+This structure enables flexible analysis across both overall performance and store-level results.
 
 
 ## 📈 **Key Retail Metrics Explained**
