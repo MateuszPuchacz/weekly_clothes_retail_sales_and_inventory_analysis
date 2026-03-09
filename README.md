@@ -77,23 +77,27 @@ Despite being simulated, the dataset preserves realistic business logic and allo
 While the first report provides a high level overview of inventory and sales performance,
 the second report allows deeper analysis at category, subcategory and store level.
 
+## Excel Reporting Architecture
+
+The Excel reporting model follows a layered structure where pivot tables act as the aggregation layer and automated reports transform the data into business insights.
+```
+Raw Data
+   ↓
+Pivot Tables (tp_cat, tp_cat2, T1, T2)
+   ↓
+Data Mapping (VLOOKUP / Direct Cell References)
+   ↓
+Calculated KPI Metrics
+   ↓
+Automated Reports & Dashboards
+```
+This structure allows the Excel file to function as a lightweight reporting system combining data aggregation, automated calculations and analytical reporting.
 
 ## **REPORT 1** 
 
 sheet contains the main automated dashboard presenting weekly stock and sales performance.
 The report combines data from two pivot tables and uses VLOOKUP-based mapping together with calculated Excel metrics to build a structured reporting layer. 
 
-```
-Raw data
-   ↓
-Pivot tables (tp_cat / tp_cat2)
-   ↓
-VLOOKUP mapping
-   ↓
-Calculated KPI metrics
-   ↓
-REPORT dashboard
-```
 
 Two pivot tables act as the data aggregation layer:
 
@@ -188,17 +192,7 @@ Selecting Białystok displays the full category and subcategory performance for 
 Reporting Logic
 
 The report follows the structure below:
-```
-Raw data
-   ↓
-Pivot tables (T1 / T2)
-   ↓
-Direct cell references
-   ↓
-Calculated metrics
-   ↓
-Detailed category & store report
-```
+
 This structure enables flexible analysis across both overall performance and store-level results.
 
 
