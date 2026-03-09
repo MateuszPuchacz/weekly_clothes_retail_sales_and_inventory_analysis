@@ -182,7 +182,7 @@ When analyzing individual stores, the number of rows may vary depending on the a
 Subtotals were added above the column headers using Excel SUBTOTAL functions, allowing the report to dynamically recalculate totals when filters are applied.
 This enables flexible analysis depending on selected views.
 
-**Report Navigation*
+**Report Navigation**
 
 The report can be analyzed at two different levels.
 
