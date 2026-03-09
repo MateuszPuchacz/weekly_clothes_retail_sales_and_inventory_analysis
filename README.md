@@ -95,15 +95,15 @@ This structure allows the Excel file to function as a lightweight reporting syst
 
 ## **REPORT 1** 
 
-## Dashboard Logic:
+**Dashboard Logic:**
 The first report acts as the main automated dashboard, presenting a high-level overview of stock and sales performance across product categories.
 The dashboard retrieves aggregated results from pivot tables and transforms them into structured business metrics using lookup formulas and calculated indicators.
 
-Data Retrieval
+**Data Retrieval**
 
 Data is dynamically retrieved from pivot tables using VLOOKUP formulas with dynamic column references.
-
 This allows the dashboard to automatically update whenever the pivot tables are refreshed while maintaining a consistent report structure.
+
 
 Two pivot tables act as the data aggregation layer:
 
@@ -123,7 +123,7 @@ product typology (STD, EXC, COUNTRY, OLD)
 The results are structured using category connectors  in columne "A" which allow the dashboard to dynamically retrieve values from the pivot table.
 
 
-## **Dynamic Data Retrieval**
+**Dynamic Data Retrieval**
 
 The dashboard retrieves values from pivot tables using a dynamic lookup formula:
 
@@ -169,7 +169,7 @@ T2
 
 This pivot table contains the same structure as T1 but includes an additional breakdown per store, allowing detailed performance analysis for each location.
 
-## Direct Cell References
+**Direct Cell References**
 
 Unlike the first dashboard which uses VLOOKUP, this report retrieves data using direct cell references from the pivot tables.
 This approach allows the report to update automatically whenever the pivot tables are refreshed.
@@ -182,7 +182,7 @@ Subtotals
 Subtotals were added above the column headers using Excel SUBTOTAL functions, allowing the report to dynamically recalculate totals when filters are applied.
 This enables flexible analysis depending on selected views.
 
-## Report Navigation
+**Report Navigation*
 
 The report can be analyzed at two different levels.
 
