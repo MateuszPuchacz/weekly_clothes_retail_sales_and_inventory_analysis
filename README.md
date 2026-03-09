@@ -177,7 +177,7 @@ The total section always contains a fixed number of rows, ensuring consistent st
 When analyzing individual stores, the number of rows may vary depending on the available data. In cases where fewer rows exist, empty results appear as 0 values, while additional records can be quickly incorporated by extending formulas downward.
 
 
-Subtotals
+**Subtotals**
 
 Subtotals were added above the column headers using Excel SUBTOTAL functions, allowing the report to dynamically recalculate totals when filters are applied.
 This enables flexible analysis depending on selected views.
