@@ -310,7 +310,7 @@ Conditional rule: Value < 0 → red text
 
 ## **REPORT 1️⃣**
 
-Weekly Sales & Inventory Performance
+Weekly & total Sales / nventory Performance
 
 The analysis focuses on weekly sales performance and inventory structure across product categories, with particular attention to the Current Season assortment.
 The company's strategy for 2025 focused on reducing excess inventory while improving the product mix, prioritizing better assortment quality and better offer instead of maintaining high stock levels.
