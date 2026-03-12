@@ -93,7 +93,7 @@ Automated Reports & Dashboards
 ```
 This structure allows the Excel file to function as a lightweight reporting system combining data aggregation, automated calculations and analytical reporting.
 
-## **REPORT 1** 
+## **REPORT 1️⃣**
 
 **Dashboard Logic:**
 The first report acts as the main automated dashboard, presenting a high-level overview of stock and sales performance across product categories.
@@ -143,7 +143,7 @@ This high-level report serves as the starting point for analysis, while the seco
 
 
 
-## **REPORT 2**
+## **REPORT 2️⃣**
 
 Detailed Category & Subcategory Report per total & stores
 The second report provides a more granular view of inventory and sales performance, allowing analysis by category, subcategory and individual stores.
