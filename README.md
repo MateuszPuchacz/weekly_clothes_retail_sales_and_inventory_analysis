@@ -160,7 +160,7 @@ The report is powered by two pivot tables, which act as the data aggregation lay
 ![Report2_2](./images/Report2_2.png)
 ![Report2_3](./images/Report2_3.png)
 
-**The screenshots above are provided only to illustrate the functionality and structure of Report 2. The main business analysis in this project will be based primarily on Report 1, which presents the overall situation of the stock and sales. Report 2 serves mainly as a supporting analytical tool that allows deeper exploration of categories, subcategories and store-level results. The images are included here only to visualize how the report is structured.**
+**The screenshots above are provided only to illustrate the functionality and structure of Report 2. The main business analysis in this project will be based primarily on Report 1 and few pivot tables, which presents the overall situation of the stock and sales. Report 2 serves mainly as a supporting analytical tool that allows deeper exploration of categories, subcategories and store-level results. The images are included here only to visualize how the report is structured.**
 
 
 
