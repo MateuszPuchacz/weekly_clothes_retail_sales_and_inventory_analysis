@@ -310,11 +310,6 @@ Conditional rule: Value < 0 → red text
 
 ## **REPORT 1️⃣**
 
-![Screen_R1](./images/Screen_R1.png)
-
-
-Left site of Report 1 
-
 Weekly Sales & Inventory Performance
 
 The analysis focuses on weekly sales performance and inventory structure across product categories, with particular attention to the Current Season assortment.
