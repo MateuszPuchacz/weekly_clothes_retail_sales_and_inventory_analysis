@@ -104,7 +104,7 @@ The first report acts as the main automated dashboard, presenting a high level o
 The dashboard retrieves aggregated results from pivot tables and transforms them into structured business metrics using lookup formulas and calculated indicators.
 
 ![Report1](./images/Report1.png)
-The full report screenshot is included here to present the overall structure and logic of the file. Due to its size, specific sections of the report will be shown separately below to provide clearer analysis and better readability.
+**The full report screenshot is included here to present the overall structure and logic of the file. Due to its size, specific sections of the report will be shown separately below to provide clearer analysis and better readability.**
 
 **Data Retrieval**
 
