@@ -298,5 +298,118 @@ Conditional rule: Value < 0 → red text
 ## 📊 Exploratory Business Analysis
 
 
+## **REPORT 1️⃣**
+
+
+Left site of Report 1 
+
+Weekly Sales & Inventory Performance
+
+The analysis focuses on weekly sales performance and inventory structure across product categories, with particular attention to the Current Season assortment.
+The company's strategy for 2025 focused on reducing excess inventory while improving the product mix, prioritizing better assortment quality and better offer instead of maintaining high stock levels.
+The results suggest that lower stock levels did not negatively impact sales performance, indicating a healthier inventory structure and improved demand alignment.
+
+
+**Current Season Performance (TOTAL Currently Season)**
+
+The Current Season assortment represents the core product offering and therefore plays the most important role in overall business performance.
+
+**Inventory Optimization**
+
+Total stock levels for current season products decreased from:
+- 273,658 units (2024)
+- 208,126 units (2025)
+
+This represents a 24% reduction in inventory.
+
+Despite the lower stock level, weekly sales increased significantly:
+
+- 372,440 → 444,922 units
+- +19% growth in weekly sales
+
+This suggests that the inventory reduction strategy improved stock efficiency rather than harming sales performance.
+Lower inventory combined with higher sales indicates stronger demand alignment and better assortment selection.
+
+
+**STD – Standard Assortment**
+
+The STD segment represents the core regular assortment
+and therefore reflects the baseline performance of the collection.
+In 2025 the company significantly reduced inventory levels in this segment:
+
+- stock decreased by 33% YoY
+
+- weekly sales decreased only by 6%
+
+This indicates that inventory was reduced more aggressively than demand, suggesting improved assortment selection and more efficient stock management.
+
+Category performance shows mixed results.
+Sweatshirts and sweaters performed well, with both stock and sales increasing, indicating strong demand in this segment.
+On the other hand, outerwear experienced the largest decline in sales, which may be partially explained by seasonal weather conditions or lower category demand.
+
+Overall, the STD assortment appears to be leaner and more optimized, with lower inventory levels but relatively stable sales performance.
+
+
+**EXC – Exclusive / Promotional Assortment**
+
+EXC represents products primarily used in promotional campaigns and special offers, which play an important role in driving short-term sales performance.
+
+In 2025 the company increased its focus on this segment. Inventory levels grew slightly:
+- Stock: +7% YoY
+
+However, the impact on sales was significantly stronger:
+- Weekly sales: +74% YoY
+
+This strong growth suggests that promotional products were actively leveraged as a sales-driving mechanism during the analyzed period, supported by improved product selection before the season.
+
+A key factor behind this strategy is the nature of the EXC assortment. Many of these products include licensed items, which tend to sell quickly due to their recognizable brands and strong customer appeal.
+By allocating more space and attention to these products, the company was able to stimulate demand and increase sales velocity, even while reducing inventory in other segments.
+
+From a category perspective, the strongest performance was observed in:
+
+- Pants and shorts
+- Sweatshirts and sweaters
+
+Outerwear
+
+Overall, the EXC assortment appears to have played a strategic role in boosting sales and improving inventory turnover, complementing the leaner structure of the standard assortment.
+
+**Country – Local Sourcing Assortment**
+
+Country represents products sourced from local suppliers, which complement the core assortment mainly supplied from the UK. These products provide additional flexibility in assortment planning and allow the company to quickly respond to local market demand.
+
+In 2025 the company significantly reduced inventory levels in this segment:
+- Stock: -34% YoY
+
+Despite the lower inventory, sales performance increased strongly:
+- Weekly sales: +70% YoY
+
+This indicates that locally sourced products performed very efficiently and were able to generate strong demand with a smaller inventory base.
+Such results suggest that the Country assortment may play an important strategic role in supporting the main collection, allowing the business to quickly introduce attractive products with shorter supply chains and better alignment with local customer preferences.
+In addition, the improved performance may indicate better product selection and stronger demand for locally sourced items, which can often be introduced faster and adjusted more easily than centrally supplied collections.
+Overall, the Country segment appears to function as a flexible support layer for the main assortment, helping to boost sales while maintaining a lean inventory structure.
+
+
+**OLD – Previous Seasons Inventory**
+
+The OLD segment represents products from previous collections that remained in store inventory. In retail, these products typically have lower sales dynamics and reduced margins, making their management an important part of inventory strategy.
+
+In 2025 the company significantly reduced inventory levels in this segment:
+- Stock: -40% YoY
+
+This reduction reflects a clear strategic effort to clean up remaining inventory from older collections and improve the overall freshness of the assortment.
+Despite the strong reduction in stock, sales performance remained relatively stable compared to the scale of inventory reduction. This suggests that the company successfully reduced excess stock without significantly impacting demand.
+From a retail perspective, lowering the share of old collections in total inventory is highly beneficial because it:
+
+- improves assortment freshness
+- reduces storage costs
+- frees space for new season products
+- increases overall inventory turnover
+
+Overall, the strong reduction in OLD inventory indicates a successful effort to optimize the inventory structure and focus more strongly on current season products, which are typically more attractive for customers.
+
+
+
+
 
 
