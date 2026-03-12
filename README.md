@@ -92,6 +92,8 @@ Calculated KPI Metrics
 Automated Reports & Dashboards
 ```
 This structure allows the Excel file to function as a lightweight reporting system combining data aggregation, automated calculations and analytical reporting.
+Additionally, the file contains several sheets with simple pivot tables used for quick situational analysis depending on the current needs of the analyst and stakeholders.
+
 
 ## **REPORT 1️⃣**
 
@@ -292,7 +294,7 @@ Conditional rule: Value < 0 → red text
 ```
 
 
-
+## 📊 Exploratory Business Analysis
 
 
 
