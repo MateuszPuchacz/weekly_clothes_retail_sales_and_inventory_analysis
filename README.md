@@ -302,6 +302,10 @@ Conditional rule: Value < 0 → red text
 
 ![Screen_1](./images/Screen_1.png)
 
+<p align="center">
+  <img src="images/dashboard.png" width="900">
+</p>
+
 
 Left site of Report 1 
 
