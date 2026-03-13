@@ -315,7 +315,7 @@ Conditional rule: Value < 0 → red text
 ![week_cs_1](./images/week_cs_1.png)
 Key observations
 
-- Total inventory decreased significantly from 273,658 units to 208,126 units (-24% YoY), while weekly sales increased from 372,440 to 444,922 units (+19% YoY).
+- Total inventory decreased significantly from 273 658 units to 208 126 units (-24% YoY), while weekly sales increased from 372 440 to 444 922 units (+19% YoY).
 
 - This indicates a strong improvement in inventory productivity, where a smaller stock base is generating higher weekly sales.
 
