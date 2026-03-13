@@ -313,6 +313,34 @@ Conditional rule: Value < 0 → red text
 
 
 ![week_cs_1](./images/week_cs_1.png)
+Key observations
+
+- Total inventory decreased significantly from 273,658 units to 208,126 units (-24% YoY), while weekly sales increased from 372,440 to 444,922 units (+19% YoY).
+
+- This indicates a strong improvement in inventory productivity, where a smaller stock base is generating higher weekly sales.
+
+**The strongest weekly growth was observed in:**
+
+- T-shirts and shirts: +22% weekly sales
+
+- Sweatshirts and sweaters: +25% weekly sales
+
+- Outerwear: +35% weekly sales
+
+Despite lower stock levels in several categories, demand remained strong, suggesting better assortment selection before the season.
+
+However, margin dynamics show some pressure:
+
+- Weekly margin value increased +10%, but
+
+- Margin % decreased from 32% to 30% (-2 pp).
+
+This suggests that sales growth was partly supported by pricing actions or promotional activity.
+
+**Commercial insight**
+
+The current season assortment is generating higher weekly sales with significantly lower inventory levels, indicating improved demand alignment and stronger product productivity.
+
 
 ![week_cs_2](./images/week_cs_2.png)
 
