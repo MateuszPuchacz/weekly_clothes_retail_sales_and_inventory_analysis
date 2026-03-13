@@ -309,7 +309,7 @@ Conditional rule: Value < 0 → red text
 
 ## 📊 Exploratory Business Analysis
 
-![screen1](./images/screen1.png)
+
 
 
 
