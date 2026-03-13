@@ -314,9 +314,9 @@ Conditional rule: Value < 0 → red text
 
 ![week_cs_1](./images/week_cs_1.png)
 
+![week_cs_2](./images/week_cs_2.png)
 
-
-
+![total_cs_1](./images/total_cs_1.png)
 
 
 
