@@ -605,4 +605,25 @@ This suggests that despite lower sales volumes, the remaining assortment is bein
 The OLD assortment is being successfully reduced while maintaining margin performance, indicating effective stock clearance management.
 
 
+📊 Final Business Insights
 
+The analysis shows a clear shift in assortment and inventory strategy during the 2025 season.
+
+Total inventory levels were significantly reduced across the business:
+
+- Current Season: −24%
+- Country assortment: −34%
+- Old collections: −40%
+
+Despite this reduction, sales performance remained relatively stable. Total sales volume for the current season decreased only −3%, while weekly sales increased +19%, indicating a much better alignment between supply and demand.
+
+Sales dynamics shifted across assortment types:
+
+- STD assortment declined (−27% sales volume) mainly due to intentional inventory reduction.
+- EXC assortment became a key growth driver with +47% sales volume supported by promotional and licensed products.
+- Country assortment showed strong growth (+70% sales volume), proving effective as a flexible complement to the main collection.
+- OLD assortment continued to decline (−26% sales volume) as part of the inventory clean-up strategy.
+
+Pricing adjustments also played a role in supporting demand. Average selling prices declined across several categories, which helped improve inventory turnover and resale rates.
+
+Overall, the data suggests that the company successfully moved toward a leaner and more demand-driven assortment structure, maintaining stable sales performance while significantly reducing inventory exposure.
