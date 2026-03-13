@@ -469,12 +469,140 @@ The results suggest that the company strategically reduced exposure to standard 
 
 
 
+**Country & OLD**
 
 
 
 
 ![country_old_1](./images/country_old_1.png)
+Key observations
+
+The Country assortment shows strong weekly sales dynamics despite a significant reduction in inventory levels.
+
+Total stock decreased from 283,669 units to 187,632 units (-34%), while weekly sales increased significantly:
+
+- 20,668 → 35,174 units (+70%)
+- Weekly gross sales increased +47%
+- Weekly margin value increased +14%
+
+The strongest growth can be observed in:
+
+- T-shirts and shirts: +78% weekly sales
+- Pants and shorts: +126% weekly sales
+- Underwear: +62% weekly sales
+
+This indicates that locally sourced products generated strong demand during the analyzed week.
+
+💡 Commercial insight
+
+Country products appear to play an important role as a flexible supporting assortment, allowing the company to react quickly to demand and complement the main collection.
+
+
+The OLD assortment shows the expected dynamics typical for previous season products.
+
+Inventory levels were significantly reduced:
+
+- 99,683 → 59,696 units (-40%)
+
+Weekly sales decreased slightly:
+
+- 5,252 → 4,785 units (-9%)
+
+However, margin value increased +28%, indicating that remaining products still generate value despite lower sales volumes.
+
+💡 Commercial insight
+
+The OLD assortment is being gradually cleared while still generating margin, which suggests effective inventory reduction without excessive discounting.
+
+
+
 ![country_old_2](./images/country_old_2.png)
+
+Country – Pricing and Inventory Efficiency
+
+
+Key observations
+
+Inventory efficiency indicators show a significant improvement in stock turnover.
+
+- Resale increased from 7% to 16%
+- Weeks of stock decreased from 14 to 5 weeks
+
+This indicates much faster inventory rotation compared to the previous season.
+
+At the same time:
+
+- Average selling price decreased -13.6%
+- Average purchase price decreased -9.8%
+
+This suggests that pricing adjustments helped stimulate demand while maintaining acceptable margin levels.
+
+💡 Commercial insight
+
+Country assortment shows very efficient stock rotation, confirming that locally sourced products can be used to quickly generate sales and improve inventory turnover.
+
+💰 OLD – Pricing and Inventory Efficiency
+
+
+Key observations
+
+Pricing indicators show moderate adjustments in order to support sell-through of older collections.
+
+- Average selling price increased +16.6%
+- Average purchase price increased +8.6%
+
+Resale improved slightly:
+
+- 5% → 7%
+
+Weeks of stock decreased from 19 to 12 weeks, indicating gradual reduction of remaining inventory.
+
+💡 Commercial insight
+
+The improvement in resale and reduction in weeks of stock suggests that the company is successfully managing the clearance process of older collections.
+
+
 ![country_old_3](./images/country_old_3.png)
+
+📈 Country – Total Season Performance
+
+
+Key observations
+
+The total season results confirm strong growth in the Country assortment:
+
+- Sales volume increased 40,555 → 68,892 units (+70%)
+- Gross sales increased +38%
+- Margin value increased +2%
+
+Despite strong sales growth, margin percentage decreased from 28% to 21% (-7 pp).
+
+This decline indicates stronger price competition and promotional pricing in order to support demand growth.
+
+💡 Commercial insight
+
+The Country assortment significantly increased its contribution to total sales, suggesting that locally sourced products became an important demand driver during the season.
+
+📈 OLD – Total Season Performance
+
+
+Key observations
+
+Total seasonal performance confirms the ongoing inventory reduction strategy for previous collections.
+
+- Sales volume decreased 23,447 → 17,283 units (-26%)
+- Gross sales decreased -13%
+
+However:
+
+- Margin value increased +8%
+- Margin percentage improved 19% → 24% (+5 pp)
+
+This suggests that despite lower sales volumes, the remaining assortment is being sold with improved profitability.
+
+💡 Commercial insight
+
+The OLD assortment is being successfully reduced while maintaining margin performance, indicating effective stock clearance management.
+
 
 
