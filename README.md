@@ -387,7 +387,8 @@ At the same time, lower retail prices helped accelerate stock rotation and suppo
 **Last Week:**
 
 ![std_exc_1](./images/std_exc_1.png)
-Key observations
+
+**Key observations**
 
 The weekly results clearly show different performance dynamics between STD (standard assortment) and EXC (promotional assortment).
 
@@ -407,12 +408,13 @@ In contrast, the EXC segment recorded strong growth:
 
 This suggests that promotional products played a key role in driving demand during the analyzed week.
 
-💡 Commercial insight
+Commercial insight
 The weekly performance indicates a clear shift in sales dynamics where EXC products compensated for weaker STD sales, supporting overall demand despite reduced inventory in the core assortment.
 
 
 ![std_exc_2](./images/std_exc_2.png)
-Key observations
+
+**Key observations**
 
 The pricing and inventory indicators highlight clear structural differences between STD and EXC assortments.
 
@@ -441,8 +443,7 @@ EXC products show significantly faster inventory turnover, confirming that promo
 **TOTAL**
 ![std_exc_3](./images/std_exc_3.png)
 
-
-Key observations
+**Key observations**
 
 The total season results reveal a structural shift in sales contribution between STD and EXC assortments.
 
