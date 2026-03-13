@@ -468,3 +468,13 @@ Commercial insight:
 The results suggest that the company strategically reduced exposure to standard inventory while leveraging promotional assortment to maintain sales momentum and improve inventory turnover.
 
 
+
+
+
+
+
+![country_old_1](./images/country_old_1.png)
+![country_old_2](./images/country_old_2.png)
+![country_old_3](./images/country_old_3.png)
+
+
