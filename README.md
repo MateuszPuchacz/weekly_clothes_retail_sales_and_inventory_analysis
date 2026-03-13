@@ -385,6 +385,7 @@ At the same time, lower retail prices helped accelerate stock rotation and suppo
 **STD & EXC separated**
 
 **Last Week:**
+
 ![std_exc_1](./images/std_exc_1.png)
 
 ![std_exc_2](./images/std_exc_2.png)
