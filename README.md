@@ -310,7 +310,9 @@ Conditional rule: Value < 0 → red text
 ## 📊 Exploratory Business Analysis
 
 
+**Currently Season (STD +EXC)**
 
+**Last Week:**
 
 ![week_cs_1](./images/week_cs_1.png)
 **Key observations**
@@ -360,6 +362,8 @@ The current season assortment is generating higher weekly sales with significant
 
 Improved resale combined with lower weeks of stock confirms that the assortment is turning faster and carrying significantly less over inventory risk.
 
+**TOTAL:**
+
 ![total_cs_1](./images/total_cs_1.png)
 
 **Key observations**
@@ -378,6 +382,16 @@ Despite the significant stock reduction, sales volume remained relatively stable
 The data indicates that the assortment was better aligned with actual customer demand, allowing the company to operate with a leaner inventory structure without materially impacting sales performance.
 At the same time, lower retail prices helped accelerate stock rotation and support the inventory clean-up process, even though this resulted in some pressure on margin value.
 
+**STD & EXC separated**
+
+**Last Week:**
+![total_cs_1](./images/total_cs_1.png)
+
+![total_cs_1](./images/total_cs_1.png)
+
+
+**TOTAL**
+![total_cs_1](./images/total_cs_1.png)
 
 
 
