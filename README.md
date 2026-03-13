@@ -313,7 +313,7 @@ Conditional rule: Value < 0 → red text
 
 
 ![week_cs_1](./images/week_cs_1.png)
-Key observations
+**Key observations**
 
 - Total inventory decreased significantly from 273 658 units to 208 126 units (-24% YoY), while weekly sales increased from 372 440 to 444 922 units (+19% YoY).
 
@@ -343,10 +343,40 @@ The current season assortment is generating higher weekly sales with significant
 
 
 ![week_cs_2](./images/week_cs_2.png)
+**Key observations**
+
+- Average selling price declined from 23.59 to 22.00 (-7%), indicating stronger promotional pressure or pricing adjustments.
+- Average purchase price decreased slightly (-2%), meaning that the majority of margin pressure comes from retail price reductions rather than purchasing cost changes.
+- Resale increased from 5% to 9% (+4 pp), indicating significantly faster stock rotation.
+- Weeks of stock decreased from 17 weeks to 10 weeks (-7 weeks), which confirms a much leaner inventory structure.
+
+**Category observations:**
+
+- Pants and shorts show improved resale (7% → 11%) with reduced weeks of stock (13 → 8 weeks), indicating strong demand.
+- T-shirts and shirts improved resale (7% → 10%) while reducing stock coverage (14 → 9 weeks).
+- Outerwear reduced stock coverage significantly (65 → 33 weeks), suggesting aggressive stock reduction in this category.
+
+**Commercial insight**
+
+Improved resale combined with lower weeks of stock confirms that the assortment is turning faster and carrying significantly less over inventory risk.
 
 ![total_cs_1](./images/total_cs_1.png)
 
+**Key observations**
 
+- Total sales volume decreased only slightly from 57,747 units to 56,041 units (-3%), despite a 24% reduction in total inventory levels compared to the previous year.
+- Gross sales value declined more noticeably (-11% YoY), mainly due to lower average selling prices across several categories.
+- Margin value decreased by 16%, while margin percentage declined moderately from 32% to 30% (-2 pp).
+- The pricing data confirms a reduction in average selling price (-7%), indicating stronger promotional activity and price adjustments implemented to support sell-through and inventory reduction.
+
+Commercial insight
+
+The results reflect a deliberate inventory reduction strategy implemented in 2025.
+
+The company intentionally reduced stock levels across stores in order to eliminate excess inventory accumulated in the previous season.
+Despite the significant stock reduction, sales volume remained relatively stable (-3%), which suggests that the previous inventory levels were higher than necessary to support demand.
+The data indicates that the assortment was better aligned with actual customer demand, allowing the company to operate with a leaner inventory structure without materially impacting sales performance.
+At the same time, lower retail prices helped accelerate stock rotation and support the inventory clean-up process, even though this resulted in some pressure on margin value.
 
 
 
