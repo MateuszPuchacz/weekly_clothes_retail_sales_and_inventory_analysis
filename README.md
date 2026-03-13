@@ -382,18 +382,88 @@ Despite the significant stock reduction, sales volume remained relatively stable
 The data indicates that the assortment was better aligned with actual customer demand, allowing the company to operate with a leaner inventory structure without materially impacting sales performance.
 At the same time, lower retail prices helped accelerate stock rotation and support the inventory clean-up process, even though this resulted in some pressure on margin value.
 
-**STD & EXC separated**
+**STD vs EXC separated**
 
 **Last Week:**
 
 ![std_exc_1](./images/std_exc_1.png)
+Key observations
+
+The weekly results clearly show different performance dynamics between STD (standard assortment) and EXC (promotional assortment).
+
+The STD segment experienced a reduction in weekly sales:
+
+- 8,934 → 8,412 units (-6%)
+- Weekly gross sales decreased -5%
+- Weekly margin value declined -9%
+
+This reflects a deliberate reduction of stock levels in the core assortment, which resulted in slightly lower weekly sales.
+
+In contrast, the EXC segment recorded strong growth:
+
+- Weekly sales increased 6,856 → 11,924 units (+74%)
+- Weekly gross sales increased +53%
+- Weekly margin value increased +36%
+
+This suggests that promotional products played a key role in driving demand during the analyzed week.
+
+💡 Commercial insight
+The weekly performance indicates a clear shift in sales dynamics where EXC products compensated for weaker STD sales, supporting overall demand despite reduced inventory in the core assortment.
+
 
 ![std_exc_2](./images/std_exc_2.png)
+Key observations
 
+The pricing and inventory indicators highlight clear structural differences between STD and EXC assortments.
+
+For the STD segment:
+
+-  Average selling price remained relatively stable (+1.3%)
+- Resale increased from 4% to 6%
+- Weeks of stock decreased from 23 to 17 weeks
+
+This confirms that inventory reduction improved stock turnover efficiency in the standard assortment.
+
+For the EXC segment:
+
+- Average selling price decreased significantly (-11.9%)TETA
+- Average selling price decreased significantly (-11.9%)TETA
+- Resale increased strongly (10% → 15%)
+
+Weeks of stock decreased from 9 to 6 weeks
+
+This suggests that promotional pricing accelerated product rotation, allowing the business to reduce inventory exposure faster and oranizing new deliveries.
+
+Commercial insight
+
+EXC products show significantly faster inventory turnover, confirming that promotional assortment plays a key role in clearing inventory and supporting sell through.
 
 **TOTAL**
 ![std_exc_3](./images/std_exc_3.png)
 
 
+Key observations
+
+The total season results reveal a structural shift in sales contribution between STD and EXC assortments.
+
+The STD segment recorded a decline across most indicators:
+
+- Sales volume decreased 38,818 → 28,216 units (-27%)
+- Sales value decreased -28%
+- Margin value declined -30%
+
+This reflects the intentional reduction of stock levels within the core assortment.
+
+In contrast, the EXC segment delivered strong growth:
+
+Sales volume increased 18,929 → 27,825 units (+47%)
+Sales value increased +25%
+Margin value increased +12%
+
+This indicates that promotional products became a much stronger driver of total sales performance in the current season.
+
+Commercial insight:
+
+The results suggest that the company strategically reduced exposure to standard inventory while leveraging promotional assortment to maintain sales momentum and improve inventory turnover.
 
 
