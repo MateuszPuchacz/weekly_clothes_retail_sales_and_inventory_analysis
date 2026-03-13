@@ -627,3 +627,9 @@ Sales dynamics shifted across assortment types:
 Pricing adjustments also played a role in supporting demand. Average selling prices declined across several categories, which helped improve inventory turnover and resale rates.
 
 Overall, the data suggests that the company successfully moved toward a leaner and more demand-driven assortment structure, maintaining stable sales performance while significantly reducing inventory exposure.
+
+
+
+
+
+REPO still in work, in staturday I'll finish.
