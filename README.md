@@ -653,7 +653,7 @@ This view allows quick identification of which product groups generate the stron
 Categories such as T-shirts and shirts or Pants and shorts show strong sales volumes and healthy resale rates, indicating stable demand and efficient stock turnover.
 Meanwhile categories with higher WOS levels and lower resale rates highlight areas where inventory moves slower and may require promotional support or assortment adjustments.
 
-💡 Commercial insight
+**💡 Commercial insight**
 
 Analyzing performance at the category level helps merchandising teams evaluate whether the assortment structure is balanced. Strong resale combined with low WOS typically indicates well-matched product selection and healthy inventory rotation.
 
@@ -682,7 +682,7 @@ Some stores demonstrate stronger resale rates and faster stock rotation, while o
 • assortment allocation
 • promotional activity
 
-💡 Commercial insight
+**💡 Commercial insight**
 
 Store level analysis allows the company to identify high-performing locations as well as stores where stock levels may be disproportionate to sales potential. This type of insight supports more precise stock allocation and helps optimize inventory distribution across the network.
 
@@ -705,12 +705,56 @@ The richer the dataset, the more detailed and insightful these analytical views 
 
 
 
+## **📌Final Business Summary**
+
+The analysis of sales performance, stock levels and product structure reveals several important operational trends across the assortment.
+
+The company's strategy for the current season clearly focused on reducing excess inventory while improving product mix quality. Compared to the previous year, total inventory levels decreased significantly, while overall sales performance remained relatively stable. This indicates that the previous stock levels were likely higher than required and that the assortment has become more efficient.
+
+The Current Season assortment (STD + EXC) remains the primary driver of business performance. Despite lower inventory levels, sales volumes remained relatively stable, which suggests that demand is being met with a more optimized product structure.
+
+The EXC assortment played a particularly important role in driving weekly sales performance. Promotional and licensed products generated strong sales dynamics, supporting overall revenue despite lower inventory levels.
+
+The STD assortment, which represents the core product offering, experienced lower stock levels and slightly lower sales volumes. However, margin levels remained relatively stable, indicating that the core assortment continues to perform consistently.
+
+The Country assortment acts as a complementary supply source supporting the main assortment. Strong sales growth in selected categories indicates that locally sourced products successfully filled assortment gaps and supported overall sales performance.
+
+Finally, the OLD assortment shows a significant reduction in stock levels, confirming that the company has been actively clearing legacy inventory from previous seasons. This is an important step toward improving overall stock health and reducing long-term inventory risk.
+
+Overall, the results suggest that the company successfully improved inventory efficiency, stock rotation and assortment quality, even though total sales value slightly declined due to pricing adjustments and promotional activity.
 
 
 
 
+## **🚀 Future Business Opportunities**
 
+Based on the results of the analysis, several opportunities for further optimization can be identified.
 
+**Inventory optimization**
+
+The significant reduction in stock levels without a major drop in sales suggests that the business can continue improving stock allocation and inventory planning. Further optimization of stock distribution across stores may help reduce excess inventory while maintaining product availability.
+
+**Assortment management**
+
+The strong performance of selected product groups indicates that further improvements in assortment selection and product mix planning could drive additional growth. Monitoring resale rates and weeks of stock will help identify high-performing and underperforming product groups earlier in the season.
+
+**Promotional strategy**
+
+The EXC assortment demonstrated strong sales dynamics, confirming that promotional and licensed products can significantly stimulate demand. A more data-driven promotional planning process could help maximize the impact of these products.
+
+Store level performance analysis
+
+Store-level analysis revealed differences in resale rates, stock levels and sales productivity across the network. Expanding this analysis may help improve store-specific assortment allocation and stock distribution strategies.
+
+**Advanced analytics**
+
+Future analytical development could include:
+
+• automated Power BI dashboards / Tableau
+• predictive demand forecasting
+• deeper store clustering and segmentation
+
+Such analytical tools would allow the company to move toward a more data-driven inventory and assortment management strategy.
 
 
 
