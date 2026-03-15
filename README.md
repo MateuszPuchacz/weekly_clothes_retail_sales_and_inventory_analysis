@@ -629,6 +629,89 @@ Pricing adjustments also played a role in supporting demand. Average selling pri
 
 Overall, the data suggests that the company successfully moved toward a leaner and more demand-driven assortment structure, maintaining stable sales performance while significantly reducing inventory.
 
+**📊 Additional Pivot Analysis**
+
+In addition to the main analytical reports, several supplementary pivot tables were created to explore specific operational aspects of the business from different perspectives.
+Pivot tables allow the same dataset to be analyzed in multiple ways depending on the business question. By adjusting dimensions such as category, subcategory, or store, it becomes possible to quickly evaluate sales efficiency, stock rotation, and performance differences across the network.
+The examples below illustrate how the same dataset can be transformed into additional analytical views supporting deeper operational insights.
+
+
+
+**Category Performance Overview**
+![cat_resale](./images/cat_resale.png)
+
+This pivot table presents product performance at the category and subcategory level. It combines key operational metrics such as:
+
+- stock quantity and stock value
+- total sales quantity
+- weekly sales volume
+- weeks of stock (WOS)
+- resale rate
+- weekly margin performance
+
+This view allows quick identification of which product groups generate the strongest sales rotation relative to their stock levels.
+Categories such as T-shirts and shirts or Pants and shorts show strong sales volumes and healthy resale rates, indicating stable demand and efficient stock turnover.
+Meanwhile categories with higher WOS levels and lower resale rates highlight areas where inventory moves slower and may require promotional support or assortment adjustments.
+
+💡 Commercial insight
+
+Analyzing performance at the category level helps merchandising teams evaluate whether the assortment structure is balanced. Strong resale combined with low WOS typically indicates well-matched product selection and healthy inventory rotation.
+
+
+**Store Performance Overview**
+
+![store_resale](./images/store_resale.png)
+
+This pivot table analyzes operational performance across the store network.
+
+It compares key indicators such as:
+
+- total stock levels
+- sales quantity
+- weekly sales activity
+- stock coverage (WOS)
+- resale performance
+- weekly margin
+
+This perspective helps identify differences in store productivity and stock efficiency.
+
+Some stores demonstrate stronger resale rates and faster stock rotation, while others maintain higher stock levels relative to sales volume. These variations often reflect differences in:
+
+• store size and traffic
+• local demand patterns
+• assortment allocation
+• promotional activity
+
+💡 Commercial insight
+
+Store level analysis allows the company to identify high-performing locations as well as stores where stock levels may be disproportionate to sales potential. This type of insight supports more precise stock allocation and helps optimize inventory distribution across the network.
+
+
+
+
+**Analytical Flexibility**
+
+One of the key advantages of pivot tables is the ability to restructure the same dataset into multiple analytical perspectives.
+
+Depending on business needs, the analysis can be quickly extended to explore:
+
+- product category performance
+- store network efficiency
+- stock coverage and inventory health
+- margin development across product groups
+- promotional product impact on sales
+
+The richer the dataset, the more detailed and insightful these analytical views can become. This flexibility makes pivot tables a powerful tool for exploratory business analysis and rapid operational diagnostics.
+
+
+
+
+
+
+
+
+
+
 
 
 
