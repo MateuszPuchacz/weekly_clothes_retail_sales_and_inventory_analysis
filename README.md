@@ -606,7 +606,7 @@ This suggests that despite lower sales volumes, the remaining assortment is bein
 The OLD assortment is being successfully reduced while maintaining margin performance, indicating effective stock clearance management.
 
 
-📊 Final Business Insights
+**📊 Final Business Insights**
 
 The analysis shows a clear shift in assortment and inventory strategy during the 2025 season.
 
@@ -627,10 +627,8 @@ Sales dynamics shifted across assortment types:
 
 Pricing adjustments also played a role in supporting demand. Average selling prices declined across several categories, which helped improve inventory turnover and resale rates.
 
-Overall, the data suggests that the company successfully moved toward a leaner and more demand-driven assortment structure, maintaining stable sales performance while significantly reducing inventory exposure.
+Overall, the data suggests that the company successfully moved toward a leaner and more demand-driven assortment structure, maintaining stable sales performance while significantly reducing inventory.
 
 
 
 
-
-REPO still in work, in staturday I'll finish.
