@@ -814,7 +814,7 @@ Better alignment between local demand patterns and product allocation may help i
 
 
 
-**This project demonstrates how retail sales data can be transformed into actionable business insights using Excel-based analytical workflows.**
+**This project demonstrates how retail sales data can be transformed into actionable business insights using Excel based analytical workflows.**
 
 
 
