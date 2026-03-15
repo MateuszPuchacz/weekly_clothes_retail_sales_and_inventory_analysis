@@ -339,7 +339,7 @@ However, margin dynamics show some pressure:
 
 This suggests that sales growth was partly supported by pricing actions or promotional activity.
 
-**Commercial insight**
+**💡 Commercial insight**
 
 The current season assortment is generating higher weekly sales with significantly lower inventory levels, indicating improved demand alignment and stronger product productivity.
 
@@ -358,7 +358,7 @@ The current season assortment is generating higher weekly sales with significant
 - T-shirts and shirts improved resale (7% → 10%) while reducing stock coverage (14 → 9 weeks).
 - Outerwear reduced stock coverage significantly (65 → 33 weeks), suggesting aggressive stock reduction in this category.
 
-**Commercial insight**
+**💡 Commercial insight**
 
 Improved resale combined with lower weeks of stock confirms that the assortment is turning faster and carrying significantly less over inventory risk.
 
@@ -373,7 +373,7 @@ Improved resale combined with lower weeks of stock confirms that the assortment 
 - Margin value decreased by 16%, while margin percentage declined moderately from 32% to 30% (-2 pp).
 - The pricing data confirms a reduction in average selling price (-7%), indicating stronger promotional activity and price adjustments implemented to support sell-through and inventory reduction.
 
-Commercial insight
+**💡 Commercial insight**
 
 The results reflect a deliberate inventory reduction strategy implemented in 2025.
 
@@ -408,7 +408,8 @@ In contrast, the EXC segment recorded strong growth:
 
 This suggests that promotional products played a key role in driving demand during the analyzed week.
 
-Commercial insight
+**💡 Commercial insight**
+
 The weekly performance indicates a clear shift in sales dynamics where EXC products compensated for weaker STD sales, supporting overall demand despite reduced inventory in the core assortment.
 
 
@@ -436,7 +437,7 @@ Weeks of stock decreased from 9 to 6 weeks
 
 This suggests that promotional pricing accelerated product rotation, allowing the business to reduce inventory exposure faster and oranizing new deliveries.
 
-Commercial insight
+**💡 Commercial insight**
 
 EXC products show significantly faster inventory turnover, confirming that promotional assortment plays a key role in clearing inventory and supporting sell through.
 
@@ -463,7 +464,7 @@ Margin value increased +12%
 
 This indicates that promotional products became a much stronger driver of total sales performance in the current season.
 
-Commercial insight:
+**💡 Commercial insight**
 
 The results suggest that the company strategically reduced exposure to standard inventory while leveraging promotional assortment to maintain sales momentum and improve inventory turnover.
 
@@ -493,7 +494,7 @@ The strongest growth can be observed in:
 
 This indicates that locally sourced products generated strong demand during the analyzed week.
 
-💡 Commercial insight
+**💡 Commercial insight**
 
 Country products appear to play an important role as a flexible supporting assortment, allowing the company to react quickly to demand and complement the main collection.
 
@@ -510,7 +511,7 @@ Weekly sales decreased slightly:
 
 However, margin value increased +28%, indicating that remaining products still generate value despite lower sales volumes.
 
-💡 Commercial insight
+**💡 Commercial insight**
 
 The OLD assortment is being gradually cleared while still generating margin, which suggests effective inventory reduction without excessive discounting.
 
@@ -537,7 +538,7 @@ At the same time:
 
 This suggests that pricing adjustments helped stimulate demand while maintaining acceptable margin levels.
 
-💡 Commercial insight
+**💡 Commercial insight**
 
 Country assortment shows very efficient stock rotation, confirming that locally sourced products can be used to quickly generate sales and improve inventory turnover.
 
@@ -557,7 +558,7 @@ Resale improved slightly:
 
 Weeks of stock decreased from 19 to 12 weeks, indicating gradual reduction of remaining inventory.
 
-💡 Commercial insight
+**💡 Commercial insight**
 
 The improvement in resale and reduction in weeks of stock suggests that the company is successfully managing the clearance process of older collections.
 
@@ -579,7 +580,7 @@ Despite strong sales growth, margin percentage decreased from 28% to 21% (-7 pp)
 
 This decline indicates stronger price competition and promotional pricing in order to support demand growth.
 
-💡 Commercial insight
+**💡 Commercial insight**
 
 The Country assortment significantly increased its contribution to total sales, suggesting that locally sourced products became an important demand driver during the season.
 
@@ -600,7 +601,7 @@ However:
 
 This suggests that despite lower sales volumes, the remaining assortment is being sold with improved profitability.
 
-💡 Commercial insight
+**💡 Commercial insight**
 
 The OLD assortment is being successfully reduced while maintaining margin performance, indicating effective stock clearance management.
 
