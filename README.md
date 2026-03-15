@@ -808,3 +808,15 @@ Some stores achieved significantly higher resale performance with lower stock co
 
 Better alignment between local demand patterns and product allocation may help increase sales productivity while maintaining optimized stock levels.
 
+
+
+
+
+
+
+**This project demonstrates how retail sales data can be transformed into actionable business insights using Excel-based analytical workflows.**
+
+
+
+
+
