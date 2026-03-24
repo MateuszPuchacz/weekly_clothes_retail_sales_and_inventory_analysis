@@ -45,7 +45,7 @@ This process includes:
 
 These structured files act as lookup tables, allowing missing attributes to be automatically added to the main dataset. They also enable clear separation of products by season (Spring/Summer vs Autumn/Winter) and proper assignment to the relevant year.
 I ensure data consistency across team files by maintaining and updating control files used for price setting. After each product update, I refresh all related files.
-In my current role, I am responsible for three product departments and process approximately 1 million records per week. Due to system limitations (Excel row limits), I prepare separate files for different departments.
+In my current role, I am responsible for three product departments and process around 1 million records per week. Due to system limitations (Excel row limits), I prepare separate files for different departments.
 
 
 ## ⚠️ Data Disclaimer
