@@ -188,25 +188,21 @@ The report supports analysis at two levels.
 By selecting "TOTAL" in the Store or Store Number filter, users can analyze overall performance across all stores.
 Subcategory value 0 is excluded, as it represents aggregated totals rather than individual product groups.
 
-**Store-Level View**
-To analyze a specific store, users simply select the desired store name from the filter.
-For example:
-Selecting Białystok displays the full category and subcategory performance for that store.
+**Store Level View**
+To analyze a specific store, users simply select the desired store from the filter.
+For example: selecting Białystok displays full category and subcategory performance for that location.
 
 **Reporting Logic**
 
-The report follows the structure below:
-This structure enables flexible analysis across both overall performance and store-level results.
+The report follows the structure belowL: enabling flexible analysis across both overall performance and store-level results.
 
 
 ## 📈 **Key Retail Metrics Explained**
 
 
-The dashboard focuses on several key metrics commonly used in retail inventory and sales analysis.
-These indicators help evaluate stock efficiency, pricing strategy and sales performance.
+The dashboard focuses on key metrics commonly used in retail sales and inventory analysis. These indicators help evaluate stock efficiency, pricing strategy, and overall performance.
+Average Purchase Price measures the average cost at which products are purchased. It helps track changes in procurement costs over time and supports margin analysis.
 
-Average Purchase Price measures the average cost at which products were purchased.
-This metric helps monitor whether procurement costs change over time and supports margin analysis.
 ```
 =Total Purchase Value / Stock Quantity
 2024: =IFERROR(G7/C7;"")
@@ -216,8 +212,8 @@ This metric helps monitor whether procurement costs change over time and support
 
 Average Selling Price
 
-Average Selling Price measures the average price at which products were sold.
-This KPI helps identify pricing trends and evaluate the effectiveness of pricing strategies.
+Average Selling Price measures the average price at which products are sold. 
+It helps track pricing trends and evaluate the effectiveness of pricing strategies.
 
 ```
 =Total Sales Value / Units Sold
@@ -227,7 +223,7 @@ This KPI helps identify pricing trends and evaluate the effectiveness of pricing
 
 % Resale
 
-The Resale Percentage shows what portion of the available stock was sold during the analyzed period.
+Resale Percentage shows what portion of available stock was sold during the analyzed period. It helps evaluate sales efficiency and stock turnover.
 
 ```
 =Sales Quantity / (Sales Quantity + Stock Quantity)
@@ -237,7 +233,7 @@ The Resale Percentage shows what portion of the available stock was sold during 
 
 Weeks of Stock (WOS) / Stock Coverage (SC)
 
-Weeks of Stock shows how many weeks the current inventory can support sales at the current sales pace.
+Weeks of Stock shows how many weeks the current inventory can support sales at the current pace. It helps assess stock availability and identify potential overstock or shortages.
 
 ```
 =Stock Quantity / Weekly Sales
@@ -245,18 +241,18 @@ Weeks of Stock shows how many weeks the current inventory can support sales at t
 2025: =IFERROR(D7/L7;"")
 ```
 
-Year-over-Year Value Difference
+Year over Year (YoY) Value Difference
 
-Year-over-Year value difference shows the absolute change between two periods.
+YoY value difference shows the absolute change between two periods. It helps track performance changes over time.
 
 ```
 =Current Year Value - Previous Year Value
 =IFERROR(D7-C7;"")
 ```
 
-Year-over-Year Change (%)
+Year over Year (YoY) Change (%)
 
-Year-over-Year percentage change measures the relative growth or decline between two periods.
+YoY percentage change shows the relative increase or decrease between two periods. It helps evaluate growth trends over time.
 
 ```
 =(Current Year Value / Previous Year Value) - 1
@@ -266,23 +262,22 @@ Year-over-Year percentage change measures the relative growth or decline between
  
 ## 🎨 Conditional Formatting
 
-Conditional formatting was applied to the Year-over-Year indicators:
+Conditional Formatting
+
+Conditional formatting is applied to Year-over-Year indicators:
 
 - Prog %
-
 - Prog Value
 
-Negative values are automatically highlighted in red, which allows users to quickly identify declines in performance compared to the previous year.
+Negative values are automatically highlighted in red, making it easier to identify declines compared to the previous year.
 
-This visual rule helps highlight situations where:
+This helps highlight situations where:
 
-- stock decreased
+- Stock decreased
+- Sales dropped
+- Resale performance weakened
 
-- sales dropped
-
-- resale performance weakened
-
-By automatically emphasizing negative changes, the report makes it easier to detect potential issues in inventory or sales dynamics without manually reviewing each value.
+By highlighting negative changes, the report makes it easier to detect potential issues in inventory and sales without manually reviewing each value.
 
 ```
 Conditional rule: Value < 0 → red text
@@ -299,13 +294,13 @@ Conditional rule: Value < 0 → red text
 **Last Week:**
 
 ![week_cs_1](./images/week_cs_1.png)
-**Key observations**
 
-- Total inventory decreased significantly from 273 658 units to 208 126 units (-24% YoY), while weekly sales increased from 372 440 to 444 922 units (+19% YoY).
+**🔍 Key observations**
 
-- This indicates a strong improvement in inventory productivity, where a smaller stock base is generating higher weekly sales.
+- Total inventory decreased from 273,658 units to 208,126 units (-24% YoY), while weekly sales increased from 372,440 to 444,922 units (+19% YoY).
+- This shows a strong improvement in inventory productivity, with lower stock generating higher weekly sales.
 
-**The strongest weekly growth was observed in:**
+**Top Weekly Growth Categories**
 
 - T-shirts and shirts: +22% weekly sales
 
@@ -315,42 +310,42 @@ Conditional rule: Value < 0 → red text
 
 Despite lower stock levels in several categories, demand remained strong, suggesting better assortment selection before the season.
 
-However, margin dynamics show some pressure:
+**Margin Peroformance:**
 
-- Weekly margin value increased +10%, but
+- Weekly margin value increased by +10%
+- Margin % decreased from 32% to 30% (-2 pp)
 
-- Margin % decreased from 32% to 30% (-2 pp).
-
-This suggests that sales growth was partly supported by pricing actions or promotional activity.
+This suggests that sales growth was partly driven by pricing actions or promotions.
 
 **💡 Commercial insight**
 
-The current season assortment is generating higher weekly sales with significantly lower inventory levels, indicating improved demand alignment and stronger product productivity.
+The current season assortment generates higher weekly sales with lower inventory levels, indicating better demand alignment and stronger product productivity.
 
 
 ![week_cs_2](./images/week_cs_2.png)
-**Key observations**
 
-- Average selling price declined from 23.59 to 22.00 (-7%), indicating stronger promotional pressure or pricing adjustments.
-- Average purchase price decreased slightly (-2%), meaning that the majority of margin pressure comes from retail price reductions rather than purchasing cost changes.
-- Resale increased from 5% to 9% (+4 pp), indicating significantly faster stock rotation.
-- Weeks of stock decreased from 17 weeks to 10 weeks (-7 weeks), which confirms a much leaner inventory structure.
+**🔍 Key observations**
+
+- Average selling price decreased from 23.59 to 22.00 (-7%), indicating stronger promotional pressure or pricing adjustments.
+- Average purchase price decreased slightly (-2%), suggesting that most of the margin pressure comes from retail price reductions rather than changes in purchasing costs.
+- Resale increased from 5% to 9% (+4 pp), indicating faster stock rotation.
+- Weeks of stock decreased from 17 to 10 weeks (-7 weeks), confirming a much leaner inventory structure.
 
 **Category observations:**
 
-- Pants and shorts show improved resale (7% → 11%) with reduced weeks of stock (13 → 8 weeks), indicating strong demand.
-- T-shirts and shirts improved resale (7% → 10%) while reducing stock coverage (14 → 9 weeks).
-- Outerwear reduced stock coverage significantly (65 → 33 weeks), suggesting aggressive stock reduction in this category.
+- Pants and shorts show higher resale (7% → 11%) and lower weeks of stock (13 → 8 weeks), indicating strong demand.
+- T-shirts and shirts show improved resale (7% → 10%) with lower stock coverage (14 → 9 weeks).
+- Outerwear shows a significant reduction in stock coverage (65 → 33 weeks), indicating strong stock reduction in this category.
 
 **💡 Commercial insight**
 
-Improved resale combined with lower weeks of stock confirms that the assortment is turning faster and carrying significantly less over inventory risk.
+Higher resale combined with lower weeks of stock confirms that the assortment is turning faster and carries less overstock risk.
 
 **TOTAL:**
 
 ![total_cs_1](./images/total_cs_1.png)
 
-**Key observations**
+**🔍 Key observations**
 
 - Total sales volume decreased only slightly from 57,747 units to 56,041 units (-3%), despite a 24% reduction in total inventory levels compared to the previous year.
 - Gross sales value declined more noticeably (-11% YoY), mainly due to lower average selling prices across several categories.
@@ -360,11 +355,9 @@ Improved resale combined with lower weeks of stock confirms that the assortment 
 **💡 Commercial insight**
 
 The results reflect a deliberate inventory reduction strategy implemented in 2025.
-
-The company intentionally reduced stock levels across stores in order to eliminate excess inventory accumulated in the previous season.
-Despite the significant stock reduction, sales volume remained relatively stable (-3%), which suggests that the previous inventory levels were higher than necessary to support demand.
-The data indicates that the assortment was better aligned with actual customer demand, allowing the company to operate with a leaner inventory structure without materially impacting sales performance.
-At the same time, lower retail prices helped accelerate stock rotation and support the inventory clean-up process, even though this resulted in some pressure on margin value.
+The company reduced stock levels across stores to eliminate excess inventory from the previous season. Despite this, sales volume remained relatively stable (-3%), suggesting that previous stock levels were higher than needed to support demand.
+The data shows that the assortment was better aligned with customer demand, allowing the company to operate with a leaner inventory without significantly impacting sales performance.
+At the same time, lower retail prices helped accelerate stock rotation and support the inventory reduction, although this created some pressure on margins.
 
 **STD vs EXC separated**
 
@@ -372,95 +365,91 @@ At the same time, lower retail prices helped accelerate stock rotation and suppo
 
 ![std_exc_1](./images/std_exc_1.png)
 
-**Key observations**
+**🔍 Key observations**
 
-The weekly results clearly show different performance dynamics between STD (standard assortment) and EXC (promotional assortment).
+The weekly results show different performance dynamics between STD (standard assortment) and EXC (promotional assortment).
 
-The STD segment experienced a reduction in weekly sales:
+STD segment:
 
-- 8,934 → 8,412 units (-6%)
-- Weekly gross sales decreased -5%
-- Weekly margin value declined -9%
+- Weekly sales decreased from 8,934 to 8,412 units (-6%)
+- Weekly gross sales decreased by -5%
+- Weekly margin value decreased by -9%
 
-This reflects a deliberate reduction of stock levels in the core assortment, which resulted in slightly lower weekly sales.
+This reflects a deliberate reduction in stock levels in the core assortment, resulting in slightly lower weekly sales.
 
-In contrast, the EXC segment recorded strong growth:
+EXC segment:
 
-- Weekly sales increased 6,856 → 11,924 units (+74%)
-- Weekly gross sales increased +53%
-- Weekly margin value increased +36%
+- Weekly sales increased from 6,856 to 11,924 units (+74%)
+- Weekly gross sales increased by +53%
+- Weekly margin value increased by +36%
 
 This suggests that promotional products played a key role in driving demand during the analyzed week.
 
 **💡 Commercial insight**
 
-The weekly performance indicates a clear shift in sales dynamics where EXC products compensated for weaker STD sales, supporting overall demand despite reduced inventory in the core assortment.
+The weekly performance shows a clear shift in sales dynamics, where EXC products offset weaker STD sales and supported overall demand despite lower inventory in the core assortment.
 
 
 ![std_exc_2](./images/std_exc_2.png)
 
-**Key observations**
+**🔍 Key observations**
 
-The pricing and inventory indicators highlight clear structural differences between STD and EXC assortments.
+Pricing and inventory indicators show clear differences between STD and EXC assortments.
 
-For the STD segment:
+STD segment:
 
--  Average selling price remained relatively stable (+1.3%)
+- Average selling price remained relatively stable (+1.3%)
 - Resale increased from 4% to 6%
 - Weeks of stock decreased from 23 to 17 weeks
 
-This confirms that inventory reduction improved stock turnover efficiency in the standard assortment.
+This confirms that inventory reduction improved stock turnover in the standard assortment.
 
-For the EXC segment:
+EXC segment:
 
-- Average selling price decreased significantly (-11.9%)TETA
-- Average selling price decreased significantly (-11.9%)TETA
-- Resale increased strongly (10% → 15%)
+- Average selling price decreased significantly (-11.9%)
+- Resale increased from 10% to 15%
+- Weeks of stock decreased from 9 to 6 weeks
 
-Weeks of stock decreased from 9 to 6 weeks
-
-This suggests that promotional pricing accelerated product rotation, allowing the business to reduce inventory exposure faster and oranizing new deliveries.
+This suggests that promotional pricing accelerated product rotation, allowing faster inventory reduction and supporting new deliveries.
 
 **💡 Commercial insight**
 
-EXC products show significantly faster inventory turnover, confirming that promotional assortment plays a key role in clearing inventory and supporting sell through.
+EXC products show faster inventory turnover, confirming that promotional assortment plays a key role in clearing inventory and supporting sell through.
 
 **TOTAL**
 ![std_exc_3](./images/std_exc_3.png)
 
-**Key observations**
+**🔍 Key observations**
 
-The total season results reveal a structural shift in sales contribution between STD and EXC assortments.
+The total season results show a clear shift in sales contribution between STD and EXC assortments.
 
-The STD segment recorded a decline across most indicators:
+STD segment:
 
-- Sales volume decreased 38,818 → 28,216 units (-27%)
-- Sales value decreased -28%
-- Margin value declined -30%
+- Sales volume decreased from 38,818 to 28,216 units (-27%)
+- Sales value decreased by -28%
+- Margin value decreased by -30%
 
-This reflects the intentional reduction of stock levels within the core assortment.
+This reflects a deliberate reduction in stock levels within the core assortment.
 
-In contrast, the EXC segment delivered strong growth:
+EXC segment:
 
-Sales volume increased 18,929 → 27,825 units (+47%)
-Sales value increased +25%
-Margin value increased +12%
+- Sales volume increased from 18,929 to 27,825 units (+47%)
+- Sales value increased by +25%
+- Margin value increased by +12%
 
-This indicates that promotional products became a much stronger driver of total sales performance in the current season.
+This shows that promotional products became a much stronger driver of total sales performance in the current season.
 
 **💡 Commercial insight**
 
-The results suggest that the company strategically reduced exposure to standard inventory while leveraging promotional assortment to maintain sales momentum and improve inventory turnover.
+The results suggest that the company reduced exposure to standard inventory while using promotional assortment to maintain sales and improve inventory turnover.
 
 
 
 **Country & OLD**
 
-
-
-
 ![country_old_1](./images/country_old_1.png)
-Key observations
+
+**🔍 Key observations**
 
 The Country assortment shows strong weekly sales dynamics despite a significant reduction in inventory levels.
 
