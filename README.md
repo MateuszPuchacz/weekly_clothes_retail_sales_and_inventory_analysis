@@ -55,8 +55,8 @@ Despite being simulated, the dataset follows realistic business logic and allows
 
 ## 🛠 Tools & Technologies
 
-- **Microsoft Excel** – used to prepare the business results file, integrate datasets, and structure the analytical model.
-- **AI (ChatGPT)** – used to generate the simulated dataset included in the **"data"** worksheet.
+- **Microsoft Excel** – used to prepare reporting files, combine datasets, and structure the analytical model.
+- **AI (ChatGPT)** – used to generate the simulated dataset included in the "data" worksheet.
 
 
 ## ⚙️ Excel Report Automation Logic
@@ -67,7 +67,7 @@ the second report allows deeper analysis at category, subcategory and store leve
 
 ## Excel Reporting Architecture
 
-The Excel reporting model follows a layered structure where pivot tables act as the aggregation layer and automated reports transform the data into business insights.
+The Excel reporting model is built in layers, with pivot tables aggregating the data and reports turning it into business insights.
 ```
 Raw Data
    ↓
@@ -79,43 +79,40 @@ Calculated KPI Metrics
    ↓
 Automated Reports & Dashboards
 ```
-This structure allows the Excel file to function as a lightweight reporting system combining data aggregation, automated calculations and analytical reporting.
 
-Additionally, the file contains several sheets with simple pivot tables used for quick situational analysis depending on the current needs of the analyst and stakeholders.
+This structure allows the Excel file to work as a simple reporting system, combining data aggregation, automated calculations, and analysis.
+Additionally, the file includes several sheets with simple pivot tables used for quick, ad hoc analysis depending on the needs of the analyst and stakeholders..
 
 
 ## **REPORT 1️⃣**
 
 **Dashboard Logic:**
 
-The first report acts as the main automated dashboard, presenting a high level overview of stock and sales performance across product categories.
-The dashboard retrieves aggregated results from pivot tables and transforms them into structured business metrics using lookup formulas and calculated indicators.
+The first report acts as the main dashboard, providing a high-level overview of stock and sales performance across product categories.
+It pulls aggregated data from pivot tables and turns it into structured business metrics using lookup formulas and calculated indicators.
 
 ![Report1](./images/Report1.png)
-**The full report screenshot is included here to present the overall structure and logic of the file. Due to its size, specific sections of the report will be shown separately below in " Exploratory Business Analysis" to provide clearer analysis and better readability.**
+**A full report screenshot is included to show the overall structure and logic of the file. Due to its size, selected sections are presented separately below in the "Exploratory Business Analysis" section for better clarity and readability.**
 
 **Data Retrieval**
 
-Data is dynamically retrieved from pivot tables using VLOOKUP formulas with dynamic column references.
-This allows the dashboard to automatically update whenever the pivot tables are refreshed while maintaining a consistent report structure.
+Data is pulled from pivot tables using VLOOKUP formulas with dynamic column references.
+This allows the dashboard to update automatically when the pivot tables are refreshed, while keeping a consistent structure.
 
 
-Two pivot tables act as the data aggregation layer:
+Two pivot tables act as the main data aggregation layer:
 
-tp_cat 
+tp_cat
 
-Provides total results by category and feeds the upper section of the dashboard:
-Week & Total currently season
-
-
+Provides total results by category and feeds the upper section of the dashboard (Week & Total – Current Season).
 This section summarizes overall stock and sales performance.
 
-tp_cat2 
+tp_cat2
 
-This pivot table provides a more detailed breakdown of the data, including:
-product typology (STD, EXC, COUNTRY, OLD)
+Provides a more detailed breakdown of the data, including:
+- Product typology (STD, EXC, COUNTRY, OLD)
 
-The results are structured using category connectors  in columne "A" which allow the dashboard to dynamically retrieve values from the pivot table.
+The results are structured using category connectors in column "A", which allow the dashboard to dynamically retrieve values from the pivot table.
 
 
 **Dynamic Data Retrieval**
@@ -132,23 +129,22 @@ tp_cat / tp_cat2 – pivot table data sources
 C$1 – dynamic column index controlled by header values
 IFERROR – prevents lookup errors when data is missing
 ```
-Numbers placed in the header rows act as column index references, allowing the same formula to populate the entire dashboard without manually adjusting column numbers.
-
-This high-level report serves as the starting point for analysis, while the second report enables deeper exploration at category and store level.
+Numbers placed in the header rows act as column references, allowing the same formula to be used across the entire dashboard without manual adjustments.
+This report serves as the starting point for analysis, while the second report allows for deeper exploration at the category and store level.
 
 
 
 ## **REPORT 2️⃣**
 
-Detailed Category & Subcategory Report per total & stores
-The second report provides a more granular view of inventory and sales performance, allowing analysis by category, subcategory and individual stores.
-The report is powered by two pivot tables, which act as the data aggregation layer.
+Detailed Category & Store Level Report
+The second report provides a more detailed view of inventory and sales performance, allowing analysis by category, subcategory, and individual stores.
+It is powered by two pivot tables, which act as the main data aggregation layer.
 
 ![Report2_1](./images/Report2_1.png)
 ![Report2_2](./images/Report2_2.png)
 ![Report2_3](./images/Report2_3.png)
 
-**The screenshots above are provided only to illustrate the functionality and structure of Report 2. The main business analysis in this project will be based primarily on Report 1 and few pivot tables, which presents the overall situation of the stock and sales. Report 2 serves mainly as a supporting analytical tool that allows deeper exploration of categories, subcategories and store-level results. The images are included here only to visualize how the report is structured.**
+**The screenshots above are included to show the structure and functionality of Report 2. The main business analysis in this project is based on Report 1 and selected pivot tables, which provide an overview of stock and sales performance. Report 2 serves as a supporting tool for deeper analysis at the category, subcategory, and store level. The images are included to illustrate how the report is structured.**
 
 
 
