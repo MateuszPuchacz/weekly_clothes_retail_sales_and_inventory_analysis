@@ -8,10 +8,9 @@ The repository presents a simplified version of Excel based reporting structures
 
 ## 📥 Data Collection
 
-At the beginning of each week, sales data from the previous week as well as cumulative sales data are exported from Tableau.
-However, the Tableau reports don't contain all product attributes required for detailed analysis,for clothes.
-Additionally, the reporting system doesn't allow exporting both weekly and cumulative sales data for articles in a single report. Because of this limitation, I need to extract two separate datasets and then integrate them into a single analytical structure.
-To combine these datasets efficiently, I use Excel-based matrices built on pivot table logic, which allow me to align and merge the results from both exports. This approach significantly speeds up the data preparation process and enables consistent comparison between weekly and cumulative performance.
+At the beginning of each week, I export sales data from Tableau, including both last week’s sales and cumulative sales.
+However, the reports do not include all product attributes needed for detailed analysis. In addition, it is not possible to export both weekly and cumulative data for articles in a single report. Because of this, I extract two separate datasets and combine them into one analytical structure.
+To do this, I use Excel and pivot tables to match and merge the data from both exports. This approach speeds up data preparation and ensures consistent comparison between weekly and cumulative performance.
 
 
 ## 🧩 Data Enrichment
