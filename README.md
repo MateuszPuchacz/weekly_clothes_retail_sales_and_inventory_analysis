@@ -658,11 +658,11 @@ One of the key advantages of pivot tables is the ability to analyze the same dat
 
 Depending on business needs, the analysis can be quickly extended to explore:
 
-Product category performance
-Store network efficiency
-Stock coverage and inventory health
-Margin trends across product groups
-Promotional product impact on sales
+- Product category performance
+- Store network efficiency
+- Stock coverage and inventory health
+- Margin trends across product groups
+- Promotional product impact on sales
 
 The richer the dataset, the more detailed and insightful the analysis becomes. This flexibility makes pivot tables a powerful tool for exploratory analysis and quick operational insights.
 
@@ -673,81 +673,67 @@ Based on the results of the analysis, several opportunities for further business
 
 **Inventory optimization**
 
-The analysis confirms that the significant reduction of stock levels did not lead to a proportional decline in sales performance. This indicates that previous inventory levels were likely higher than required.
-
-Further improvements in stock allocation across stores could help maintain product availability while continuing to optimize inventory efficiency. Better alignment between demand patterns and stock distribution would support healthier stock rotation and reduce the risk of overstocking.
+The results show that a significant reduction in stock levels did not lead to a proportional decline in sales, suggesting that previous inventory levels were higher than needed.
+Further improvements in stock allocation across stores can help maintain availability while improving inventory efficiency. Better alignment between demand and stock distribution would support faster rotation and reduce overstock risk.
 
 **Assortment management**
 
-The results suggest that product selection and collection structure play a more important role than absolute stock volume.
-
-Some categories achieved stable sales results despite lower inventory levels, which indicates that a well-selected assortment can perform efficiently even with reduced stock. This highlights the importance of focusing more strongly on model-level assortment decisions within each category, rather than increasing total stock volume.
-
-For buyers and traders, this means that greater attention should be given to product selection, collection structure and demand alignment, ensuring that the right products are introduced at the right time in the season.
+The results suggest that product selection and collection structure are more important than total stock volume.
+Some categories maintained stable sales despite lower inventory, showing that a well-selected assortment can perform efficiently with less stock. This highlights the importance of focusing on product-level decisions within each category rather than increasing total volume.
+For buyers and traders, this means focusing more on product selection, collection structure, and demand alignment.
 
 **Promotional and licensing strategy**
 
-The EXC assortment demonstrated strong sales dynamics, confirming that promotional and licensed products can play an important role in stimulating demand.
-
-A more structured approach to promotional planning could help leverage these products more effectively throughout the season. Aligning promotional activity with demand cycles and product availability may improve both sales performance and stock rotation.
+The EXC assortment showed strong performance, confirming that promotional and licensed products can effectively drive demand.
+A more structured promotional approach could improve results further. Aligning promotions with demand cycles and product availability can support both sales and stock rotation.
 
 **Store level performance optimization**
 
-The store-level analysis revealed noticeable differences in resale rates, stock coverage and sales productivity across the network.
-
-Further exploration of these patterns could support more precise store segmentation and allow the company to allocate assortment and inventory more effectively depending on store performance, local demand and sales capacity.
+Store level analysis shows clear differences in resale, stock coverage, and sales performance across the network.
+Further analysis can support better store segmentation and more precise stock allocation based on store performance and local demand.
 
 **Advanced analytics and reporting integration**
 
-Future analytical development could involve integrating this dataset into interactive BI tools such as Power BI or Tableau.
+Further development could include integrating this dataset into BI tools such as Power BI or Tableau.
 
-By connecting sales, stock and supply data through relational data models, it would be possible to create a more comprehensive analytical environment combining:
+By combining sales, stock, and supply data in a data model, it would be possible to build a more complete analytical environment, including:
 
-- sales performance
-- stock levels
-- delivery volumes
-- product assortment structure
+- Sales performance
+- Stock levels
+- Delivery volumes
+- Assortment structure
 
-Analyzing deliveries across weekly, monthly and yearly time horizons would provide additional insight into how supply flows influence stock levels and sales performance.
+Analyzing deliveries across different time horizons (weekly, monthly, yearly) would provide additional insight into how supply impacts stock and sales.
 
-Such an integrated analytical approach would support more informed operational decisions and allow the business to move toward a more data-driven inventory and assortment management strategy.
-
+This approach would support more data driven decisions and help move toward a more efficient inventory and assortment strategy.
 
 ## **📈 Key Analytical Insights**
 
-The analysis revealed several important patterns regarding sales performance, assortment structure and inventory management across the retail network.
+The analysis highlights several key patterns in sales performance, assortment structure, and inventory management across the retail network.
 
 **Inventory reduction did not significantly impact sales**
 
-One of the most important findings is that the company significantly reduced inventory levels while maintaining relatively stable sales performance.
-
-Total stock quantity decreased by approximately 24%, while total sales quantity declined by only 3%. This suggests that previous stock levels were higher than necessary and that the assortment is now operating with a healthier inventory structure.
-
-This confirms that inventory optimization can improve operational efficiency without negatively impacting demand fulfillment.
+The company reduced inventory levels while maintaining stable sales performance.
+Total stock decreased by around 24%, while total sales declined by only 3%. This suggests that previous stock levels were higher than needed and that the current assortment operates with a more efficient inventory structure.
+This confirms that inventory optimization can improve efficiency without negatively impacting demand.
 
 **Promotional assortment played a key role in sales dynamics**
 
-The EXC assortment, which includes promotional and licensed products, showed strong growth dynamics compared to the previous year.
-
-Weekly sales quantity increased significantly and contributed to maintaining overall sales performance despite lower inventory levels. This indicates that promotional products were effectively used as a demand-generation mechanism during the season.
-
-These results highlight the importance of strategic promotional assortment planning in driving short-term sales performance.
+The EXC assortment (promotional and licensed products) showed strong growth compared to the previous year.
+Weekly sales increased significantly, helping maintain overall sales despite lower inventory levels. This shows that promotional products were effectively used to drive demand during the season.
+This highlights the importance of structured promotional planning in supporting short term sales.
 
 **Assortment quality proved more important than stock volume**
 
-Another key insight is that collection structure and product selection appear to be more critical than total stock levels.
-
-Several product categories maintained stable sales performance despite reduced inventory, suggesting that better assortment planning allowed the company to focus on higher-performing product models.
-
-This reinforces the importance of data-driven assortment decisions at the model level, where buyers and traders select products based on demand potential rather than increasing overall inventory volume.
+Product selection and collection structure proved more important than total stock levels.
+Several categories maintained stable sales despite reduced inventory, indicating that better assortment planning improved performance at the product level.
+This reinforces the importance of data driven assortment decisions based on demand rather than increasing total stock.
 
 **Store level analysis highlights opportunities for allocation improvements**
 
-Analysis of individual stores revealed noticeable differences in resale rates, stock coverage and sales productivity.
-
-Some stores achieved significantly higher resale performance with lower stock coverage, suggesting more efficient stock rotation. This indicates that further improvements in store-specific assortment allocation and inventory distribution could enhance overall network performance.
-
-Better alignment between local demand patterns and product allocation may help increase sales productivity while maintaining optimized stock levels.
+Store level analysis shows clear differences in resale, stock coverage, and sales performance.
+Some stores achieved higher resale with lower stock coverage, indicating more efficient stock rotation. This suggests that improving store-level allocation can further enhance performance.
+Better alignment between local demand and stock distribution can increase sales productivity while maintaining optimized inventory levels.
 
 
 
@@ -755,7 +741,7 @@ Better alignment between local demand patterns and product allocation may help i
 
 
 
-**This project demonstrates how retail sales data can be transformed into actionable business insights using Excel based analytical workflows.**
+**This project shows how retail sales data can be turned into actionable business insights using Excel based workflows.**
 
 
 
