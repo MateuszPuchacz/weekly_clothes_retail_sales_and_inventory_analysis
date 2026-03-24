@@ -5,6 +5,20 @@
 This project shows the analytical workflow I use in my current role in retail clothing sales and inventory analysis. It presents a simplified version of Excel-based reporting used to analyze weekly sales performance and inventory. The dataset was generated with AI support and manually adjusted to resemble real business data, while remaining fully simulated for portfolio purposes.
 
 
+## 📑 Table of Content
+- [Data Collection](#-Data-Collection)
+- [Data Preparation](#-data-preparation)
+- [Product Data Management](#-Product-Data-Management)
+- [Data Disclaimer](#-Data-Disclaimer)
+- [Tools & Technologies](#-Tools-&-Technologies)
+- [Excel Report Automation Logic](#-Excel-Report-Automation-Logic)
+- [Exploratory Business Analysis](#-Exploratory-Business-Analysis)
+- [Final Business Insights](#-Final-Business-Insights)
+- [Additional Pivot Analysis](#-Additional-Pivot-Analysis)
+- [Future Business Opportunities](#-Future-Business-Opportunities)
+- [Key Analytical Insights](#-Key-Analytical-Insights)
+
+
 ## 📥 Data Collection
 
 At the beginning of each week, I export sales data from Tableau, including both last week’s sales and cumulative sales. However, the reports do not include all product attributes needed for detailed analysis. In addition, it is not possible to export both weekly and cumulative data for articles in a single report. Because of this, I extract two separate datasets and combine them into one structure.
@@ -593,7 +607,7 @@ Sales dynamics shifted across assortment types:
 Pricing adjustments also supported demand. Average selling prices decreased across several categories, helping improve inventory turnover and resale.
 Overall, the data shows that the company moved toward a leaner and more demand-driven assortment, maintaining stable sales while significantly reducing inventory.
 
-**📊 Additional Pivot Analysis**
+## **📊 Additional Pivot Analysis**
 
 In addition to the main reports, several supplementary pivot tables were created to analyze specific operational aspects from different perspectives.
 Pivot tables allow the same dataset to be analyzed in multiple ways depending on the business question. By adjusting dimensions such as category, subcategory, or store, it is possible to quickly evaluate sales efficiency, stock rotation, and performance differences across the network.
@@ -647,10 +661,7 @@ Promotional activity
 
 **💡 Commercial insight**
 
-Store-level analysis helps identify high-performing locations as well as stores where stock levels may be too high relative to sales potential. This supports more precise stock allocation and helps optimize inventory distribution across the network.
-
-
-
+Store level analysis helps identify high-performing locations as well as stores where stock levels may be too high relative to sales potential. This supports more precise stock allocation and helps optimize inventory distribution across the network.
 
 **Analytical Flexibility**
 
