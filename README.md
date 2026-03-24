@@ -25,9 +25,9 @@ These files contain key product attributes such as:
 
 - Size
 
-- Initial selling price
+- Buying price
 
-- Transfer price
+- Initial selling price
 
 - Season classification (Winter / Summer)
 
@@ -39,22 +39,19 @@ At this stage, basic **data cleaning 🧹 and validation 🧱** are also perform
 
 ## ⚙️ Product Data Management
 
-As part of my responsibilities, I also maintain internal product reference files used for data enrichment. This includes:
+As part of my role, I create internal product reference files used for data integration.
 
-- assigning product codes in internal company systems
+This process includes:
 
-- uploading product prices to stores system
+- Assigning product codes in internal company systems
+- Uploading product prices to store systems
+- Maintaining seasonal product lists
+- Organizing products by year and season
+- Creating consolidated product reference tables
 
-- maintaining seasonal product lists
-
-- organizing articles by year and season
-
-- creating consolidated product reference tables
-
-These structured files serve as lookup tables that allow missing attributes to be automatically appended to the main dataset.
-
-In my current role I'm responsible for three product departments, and I process approximately 1 million records per week.
-Due to corporate system limitations (access restricted to Excel), the data is distributed across multiple files to stay within Excel row limits.
+These structured files act as lookup tables, allowing missing attributes to be automatically added to the main dataset. They also enable clear separation of products by season (Spring/Summer vs Autumn/Winter) and proper assignment to the relevant year.
+I ensure data consistency across team files by maintaining and updating control files used for price setting. After each product update, I refresh all related files.
+In my current role, I am responsible for three product departments and process approximately 1 million records per week. Due to system limitations (Excel row limits), I prepare separate files for different departments.
 
 
 ## ⚠️ Data Disclaimer
