@@ -33,9 +33,9 @@ These files contain key product attributes such as:
 
 - Regional coordinator responsible for a product group
 
-
-Each product has a unique product number, which allows missing attributes to be matched and appended to the Tableau export files.
-During this stage, basic **data cleaning 🧹 and validation 🧱** is also performed to ensure data consistency. This includes checking for missing values, verifying product identifiers, standardizing attribute formats, and removing inconsistencies between the exported datasets and the reference product lists.
+They also include store names, as the source system provides only store IDs. Based on the store name, the regional coordinator responsible for each store group is assigned.
+Each product has a unique product number, which allows missing attributes to be matched and added to the Tableau export files.
+At this stage, basic **data cleaning 🧹 and validation 🧱** are also performed to ensure consistency. This includes checking for missing values, verifying product identifiers, standardizing attribute formats, and resolving inconsistencies between the exported datasets and the reference product lists.
 
 ## ⚙️ Product Data Management
 
