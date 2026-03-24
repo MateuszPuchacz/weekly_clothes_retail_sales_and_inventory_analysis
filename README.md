@@ -394,7 +394,7 @@ The weekly performance shows a clear shift in sales dynamics, where EXC products
 
 **🔍 Key observations**
 
-Pricing and inventory indicators show clear differences between STD and EXC assortments.
+💰 Pricing and inventory indicators show clear differences between STD and EXC assortments.
 
 STD segment:
 
@@ -453,61 +453,55 @@ The results suggest that the company reduced exposure to standard inventory whil
 
 The Country assortment shows strong weekly sales dynamics despite a significant reduction in inventory levels.
 
-Total stock decreased from 283,669 units to 187,632 units (-34%), while weekly sales increased significantly:
-
+Total stock decreased from 283,669 to 187,632 units (-34%), while weekly sales increased significantly:
 - 20,668 → 35,174 units (+70%)
-- Weekly gross sales increased +47%
-- Weekly margin value increased +14%
+- Weekly gross sales increased by +47%
+- Weekly margin value increased by +14%
 
-The strongest growth can be observed in:
+The strongest growth was observed in:
+- T-shirts and shirts: +78%
+- Pants and shorts: +126%
+- Underwear: +62%
 
-- T-shirts and shirts: +78% weekly sales
-- Pants and shorts: +126% weekly sales
-- Underwear: +62% weekly sales
-
-This indicates that locally sourced products generated strong demand during the analyzed week.
-
-**💡 Commercial insight**
-
-Country products appear to play an important role as a flexible supporting assortment, allowing the company to react quickly to demand and complement the main collection.
-
-
-The OLD assortment shows the expected dynamics typical for previous season products.
-
-Inventory levels were significantly reduced:
-
-- 99,683 → 59,696 units (-40%)
-
-Weekly sales decreased slightly:
-
-- 5,252 → 4,785 units (-9%)
-
-However, margin value increased +28%, indicating that remaining products still generate value despite lower sales volumes.
+This shows that locally sourced products generated strong demand during the analyzed week.
 
 **💡 Commercial insight**
 
-The OLD assortment is being gradually cleared while still generating margin, which suggests effective inventory reduction without excessive discounting.
+Country products play an important role as a flexible supporting assortment, allowing the company to respond quickly to demand and complement the main collection.
+
+
+The OLD assortment shows typical dynamics for previous season products.
+
+- Inventory decreased from 99,683 to 59,696 units (-40%)
+- Weekly sales decreased slightly from 5,252 to 4,785 units (-9%)
+- Margin value increased by +28%
+
+This shows that remaining products still generate value despite lower sales volumes.
+
+**💡 Commercial insight**
+
+The OLD assortment is being gradually cleared while still generating margin, suggesting effective inventory reduction without heavy discounting.
 
 
 
 ![country_old_2](./images/country_old_2.png)
 
-Country – Pricing and Inventory Efficiency
+💰 Country – Pricing and Inventory Efficiency
 
 
-Key observations
+**🔍 Key observations**
 
-Inventory efficiency indicators show a significant improvement in stock turnover.
+Inventory efficiency indicators show a clear improvement in stock turnover.
 
 - Resale increased from 7% to 16%
 - Weeks of stock decreased from 14 to 5 weeks
 
-This indicates much faster inventory rotation compared to the previous season.
+This shows much faster inventory rotation compared to the previous season.
 
 At the same time:
 
-- Average selling price decreased -13.6%
-- Average purchase price decreased -9.8%
+- Average selling price decreased by -13.6%
+- Average purchase price decreased by -9.8%
 
 This suggests that pricing adjustments helped stimulate demand while maintaining acceptable margin levels.
 
@@ -517,66 +511,64 @@ Country assortment shows very efficient stock rotation, confirming that locally 
 
 💰 OLD – Pricing and Inventory Efficiency
 
+**🔍 Key observations**
 
-Key observations
+Pricing indicators show moderate adjustments to support sell through of older collections.
 
-Pricing indicators show moderate adjustments in order to support sell-through of older collections.
-
-- Average selling price increased +16.6%
-- Average purchase price increased +8.6%
+- Average selling price increased by +16.6%
+- Average purchase price increased by +8.6%
 
 Resale improved slightly:
 
 - 5% → 7%
 
-Weeks of stock decreased from 19 to 12 weeks, indicating gradual reduction of remaining inventory.
+Weeks of stock decreased from 19 to 12 weeks, indicating a gradual reduction of remaining inventory.
 
 **💡 Commercial insight**
 
-The improvement in resale and reduction in weeks of stock suggests that the company is successfully managing the clearance process of older collections.
+The increase in resale and reduction in weeks of stock suggest that the company is effectively managing the clearance of older collections.
 
 
 ![country_old_3](./images/country_old_3.png)
 
 📈 Country – Total Season Performance
 
+**🔍 Key observations**
 
-Key observations
+The total season results show strong growth in the Country assortment:
 
-The total season results confirm strong growth in the Country assortment:
+- Sales volume increased from 40,555 to 68,892 units (+70%)
+- Gross sales increased by +38%
+- Margin value increased by +2%
 
-- Sales volume increased 40,555 → 68,892 units (+70%)
-- Gross sales increased +38%
-- Margin value increased +2%
+Despite strong sales growth, margin % decreased from 28% to 21% (-7 pp).
 
-Despite strong sales growth, margin percentage decreased from 28% to 21% (-7 pp).
-
-This decline indicates stronger price competition and promotional pricing in order to support demand growth.
+This suggests stronger price competition and promotional pricing to support demand growth.
 
 **💡 Commercial insight**
 
-The Country assortment significantly increased its contribution to total sales, suggesting that locally sourced products became an important demand driver during the season.
+The Country assortment significantly increased its share of total sales, suggesting that locally sourced products became an important demand driver during the season.
 
 📈 OLD – Total Season Performance
 
 
-Key observations
+**🔍 Key observations**
 
-Total seasonal performance confirms the ongoing inventory reduction strategy for previous collections.
+The total season results confirm an ongoing inventory reduction strategy for previous collections.
 
-- Sales volume decreased 23,447 → 17,283 units (-26%)
-- Gross sales decreased -13%
+- Sales volume decreased from 23,447 to 17,283 units (-26%)
+- Gross sales decreased by -13%
 
 However:
 
-- Margin value increased +8%
-- Margin percentage improved 19% → 24% (+5 pp)
+- Margin value increased by +8%
+- Margin % improved from 19% to 24% (+5 pp)
 
 This suggests that despite lower sales volumes, the remaining assortment is being sold with improved profitability.
 
 **💡 Commercial insight**
 
-The OLD assortment is being successfully reduced while maintaining margin performance, indicating effective stock clearance management.
+The OLD assortment is being reduced while maintaining margin performance, indicating effective stock clearance.
 
 
 **📊 Final Business Insights**
@@ -589,46 +581,44 @@ Total inventory levels were significantly reduced across the business:
 - Country assortment: −34%
 - Old collections: −40%
 
-Despite this reduction, sales performance remained relatively stable. Total sales volume for the current season decreased only −3%, while weekly sales increased +19%, indicating a much better alignment between supply and demand.
+Despite this, sales performance remained relatively stable. Total sales volume for the current season decreased by only −3%, while weekly sales increased by +19%, indicating better alignment between supply and demand.
 
 Sales dynamics shifted across assortment types:
 
-- STD assortment declined (−27% sales volume) mainly due to intentional inventory reduction.
-- EXC assortment became a key growth driver with +47% sales volume supported by promotional and licensed products.
-- Country assortment showed strong growth (+70% sales volume), proving effective as a flexible complement to the main collection.
-- OLD assortment continued to decline (−26% sales volume) as part of the inventory clean-up strategy.
+- STD assortment declined (−27% sales volume), mainly due to intentional inventory reduction
+- EXC assortment became a key growth driver (+47% sales volume), supported by promotional and licensed products
+- Country assortment showed strong growth (+70% sales volume), acting as a flexible complement to the main collection
+- OLD assortment continued to decline (−26% sales volume) as part of the inventory reduction strategy
 
-Pricing adjustments also played a role in supporting demand. Average selling prices declined across several categories, which helped improve inventory turnover and resale rates.
-
-Overall, the data suggests that the company successfully moved toward a leaner and more demand-driven assortment structure, maintaining stable sales performance while significantly reducing inventory.
+Pricing adjustments also supported demand. Average selling prices decreased across several categories, helping improve inventory turnover and resale.
+Overall, the data shows that the company moved toward a leaner and more demand-driven assortment, maintaining stable sales while significantly reducing inventory.
 
 **📊 Additional Pivot Analysis**
 
-In addition to the main analytical reports, several supplementary pivot tables were created to explore specific operational aspects of the business from different perspectives.
-Pivot tables allow the same dataset to be analyzed in multiple ways depending on the business question. By adjusting dimensions such as category, subcategory, or store, it becomes possible to quickly evaluate sales efficiency, stock rotation, and performance differences across the network.
-The examples below illustrate how the same dataset can be transformed into additional analytical views supporting deeper operational insights.
-
+In addition to the main reports, several supplementary pivot tables were created to analyze specific operational aspects from different perspectives.
+Pivot tables allow the same dataset to be analyzed in multiple ways depending on the business question. By adjusting dimensions such as category, subcategory, or store, it is possible to quickly evaluate sales efficiency, stock rotation, and performance differences across the network.
+The examples below show how the same dataset can be used to create additional views that support deeper operational analysis.
 
 
 **Category Performance Overview**
 ![cat_resale](./images/cat_resale.png)
 
-This pivot table presents product performance at the category and subcategory level. It combines key operational metrics such as:
+This pivot table presents product performance at the category and subcategory level. It includes key operational metrics such as:
 
-- stock quantity and stock value
-- total sales quantity
-- weekly sales volume
-- weeks of stock (WOS)
-- resale rate
-- weekly margin performance
+Stock quantity and stock value
+Total sales quantity
+Weekly sales volume
+Weeks of stock (WOS)
+Resale rate
+Weekly margin
 
-This view allows quick identification of which product groups generate the strongest sales rotation relative to their stock levels.
+This view allows quick identification of product groups with the strongest sales rotation relative to their stock levels.
 Categories such as T-shirts and shirts or Pants and shorts show strong sales volumes and healthy resale rates, indicating stable demand and efficient stock turnover.
-Meanwhile categories with higher WOS levels and lower resale rates highlight areas where inventory moves slower and may require promotional support or assortment adjustments.
+Categories with higher WOS and lower resale highlight slower-moving inventory that may require promotional support or assortment adjustments.
 
 **💡 Commercial insight**
 
-Analyzing performance at the category level helps merchandising teams evaluate whether the assortment structure is balanced. Strong resale combined with low WOS typically indicates well-matched product selection and healthy inventory rotation.
+Analyzing performance at the category level helps merchandising teams assess whether the assortment is balanced. High resale combined with low WOS typically indicates strong product selection and efficient inventory rotation.
 
 
 **Store Performance Overview**
@@ -639,43 +629,42 @@ This pivot table analyzes operational performance across the store network.
 
 It compares key indicators such as:
 
-- total stock levels
-- sales quantity
-- weekly sales activity
-- stock coverage (WOS)
-- resale performance
-- weekly margin
+Total stock levels
+Sales quantity
+Weekly sales activity
+Stock coverage (WOS)
+Resale rate
+Weekly margin
 
-This perspective helps identify differences in store productivity and stock efficiency.
+This view helps identify differences in store productivity and stock efficiency.
 
-Some stores demonstrate stronger resale rates and faster stock rotation, while others maintain higher stock levels relative to sales volume. These variations often reflect differences in:
+Some stores show stronger resale rates and faster stock rotation, while others maintain higher stock levels relative to sales. These differences often reflect variations in:
 
-• store size and traffic
-• local demand patterns
-• assortment allocation
-• promotional activity
+Store size and traffic
+Local demand patterns
+Assortment allocation
+Promotional activity
 
 **💡 Commercial insight**
 
-Store level analysis allows the company to identify high-performing locations as well as stores where stock levels may be disproportionate to sales potential. This type of insight supports more precise stock allocation and helps optimize inventory distribution across the network.
+Store-level analysis helps identify high-performing locations as well as stores where stock levels may be too high relative to sales potential. This supports more precise stock allocation and helps optimize inventory distribution across the network.
 
 
 
 
 **Analytical Flexibility**
 
-One of the key advantages of pivot tables is the ability to restructure the same dataset into multiple analytical perspectives.
+One of the key advantages of pivot tables is the ability to analyze the same dataset from multiple perspectives.
 
 Depending on business needs, the analysis can be quickly extended to explore:
 
-- product category performance
-- store network efficiency
-- stock coverage and inventory health
-- margin development across product groups
-- promotional product impact on sales
+Product category performance
+Store network efficiency
+Stock coverage and inventory health
+Margin trends across product groups
+Promotional product impact on sales
 
-The richer the dataset, the more detailed and insightful these analytical views can become. This flexibility makes pivot tables a powerful tool for exploratory business analysis and rapid operational diagnostics.
-
+The richer the dataset, the more detailed and insightful the analysis becomes. This flexibility makes pivot tables a powerful tool for exploratory analysis and quick operational insights.
 
 
 ## **🚀 Future Business Opportunities**
