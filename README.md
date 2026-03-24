@@ -2,8 +2,8 @@
 
 ## 🎯 Project Goal
 
-This project simulates the analytical workflow I currently perform in my professional role in retail clothes sales and inventory analysis.
-The repository presents a simplified version of Excel based reporting structures used to analyze weekly sales performance and product inventory. The dataset included in this project was generated with AI support and manually adjusted to resemble real business data while remaining fully simulated for portfolio purposes.
+This project show the analytical workflow I use in my current role in retail clothing sales and inventory analysis.
+It presents a simplified version of Excel based reporting used to analyze weekly sales performance and inventory. The dataset was generated with AI support and manually adjusted to resemble real business data, while remaining fully simulated for portfolio purposes.
 
 
 ## 📥 Data Collection
