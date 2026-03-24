@@ -154,39 +154,39 @@ Two pivot tables supply the report:
 
 **T1**
 
-This pivot table provides aggregated results including:
+This pivot table provides aggregated results by:
 
-- product categories
-- subcategories
-- product typologies (STD, EXC, COUNTRY, OLD)
+- Product category
+- Subcategory
+- Product typology (STD, EXC, COUNTRY, OLD)
 
-The data from this pivot table feeds the Total view of the report, allowing users to analyze overall performance.
+The data feeds the Total view of the report, allowing users to analyze overall performance.
 
 **T2**
 
-This pivot table contains the same structure as **T1** but includes an additional breakdown per store, allowing detailed performance analysis for each location.
+This pivot table follows the same structure as **T1** but includes an additional breakdown by store, allowing detailed performance analysis for each location.
 
 **Direct Cell References**
 
-Unlike the first dashboard which uses VLOOKUP, this report retrieves data using direct cell references from the pivot tables.
-This approach allows the report to update automatically whenever the pivot tables are refreshed.
-The total section always contains a fixed number of rows, ensuring consistent structure for the aggregated view.
-When analyzing individual stores, the number of rows may vary depending on the available data. In cases where fewer rows exist, empty results appear as 0 values, while additional records can be quickly incorporated by extending formulas downward.
+Unlike the first dashboard, which uses VLOOKUP, this report retrieves data using direct cell references from pivot tables.
+This allows the report to update automatically whenever the pivot tables are refreshed.
+The Total section always has a fixed number of rows, ensuring a consistent structure for aggregated results.
+When analyzing individual stores, the number of rows may vary depending on the data. If fewer rows are available, missing values appear as 0. Additional records can be easily included by extending the formulas downward.
 
 
 **Subtotals**
 
-Subtotals were added above the column headers using Excel SUBTOTAL functions, allowing the report to dynamically recalculate totals when filters are applied.
-This enables flexible analysis depending on selected views.
+Subtotals are placed above the column headers using Excel SUBTOTAL functions, allowing totals to update automatically when filters are applied.
+This enables flexible analysis based on the selected view.
 
 **Report Navigation**
 
-The report can be analyzed at two different levels.
+The report supports analysis at two levels.
 
 **Total View**
 
-By selecting TOTAL in the Store or Store Number filter, users can analyze the overall performance across all stores.
-Subcategory value 0 is excluded from the view, as it represents aggregated totals rather than individual product groups.
+By selecting "TOTAL" in the Store or Store Number filter, users can analyze overall performance across all stores.
+Subcategory value 0 is excluded, as it represents aggregated totals rather than individual product groups.
 
 **Store-Level View**
 To analyze a specific store, users simply select the desired store name from the filter.
