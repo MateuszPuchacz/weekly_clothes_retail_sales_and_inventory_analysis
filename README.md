@@ -20,17 +20,11 @@ To complete the dataset, additional product information is retrieved using Excel
 These files contain key product attributes such as:
 
 - Model number
-
 - Color
-
 - Size
-
 - Buying price
-
 - Initial selling price
-
 - Season classification (Winter / Summer)
-
 - Regional coordinator responsible for a product group
 
 They also include store names, as the source system provides only store IDs. Based on the store name, the regional coordinator responsible for each store group is assigned.
