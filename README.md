@@ -1,7 +1,6 @@
 # weekly_clothes_retail_sales_and_inventory_analysis
 
 
-https://docs.google.com/spreadsheets/d/1fpD6RYGEXoB5SBDRYV7mKPJLPsKs_ryJ/edit?usp=sharing&ouid=114257032345079777376&rtpof=true&sd=true
 ## 🎯 Project Goal
 
 This project shows the analytical workflow I use in my current role in retail clothing sales and inventory analysis. It presents a simplified version of Excel-based reporting used to analyze weekly sales performance and inventory. The dataset was generated with AI support and manually adjusted to resemble real business data, while remaining fully simulated for portfolio purposes.
