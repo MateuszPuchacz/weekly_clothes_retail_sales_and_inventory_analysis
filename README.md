@@ -1,5 +1,7 @@
 # weekly_clothes_retail_sales_and_inventory_analysis
 
+
+https://docs.google.com/spreadsheets/d/1fpD6RYGEXoB5SBDRYV7mKPJLPsKs_ryJ/edit?usp=sharing&ouid=114257032345079777376&rtpof=true&sd=true
 ## 🎯 Project Goal
 
 This project shows the analytical workflow I use in my current role in retail clothing sales and inventory analysis. It presents a simplified version of Excel-based reporting used to analyze weekly sales performance and inventory. The dataset was generated with AI support and manually adjusted to resemble real business data, while remaining fully simulated for portfolio purposes.
@@ -23,6 +25,13 @@ This project shows the analytical workflow I use in my current role in retail cl
 
 At the beginning of each week, I export sales data from Tableau, including both last week’s sales and cumulative sales. However, the reports do not include all product attributes needed for detailed analysis. In addition, it is not possible to export both weekly and cumulative data for articles in a single report. Because of this, I extract two separate datasets and combine them into one structure.
 To do this, I use Excel and pivot tables to match and merge the data from both exports. This approach speeds up data preparation and ensures consistent comparison between weekly and cumulative performance.
+
+## 📂 Data Access
+
+The full analytical file used in this project (including data model, transformations, and dashboard outputs) exceeds GitHub file size limits and is not included directly in the repository.
+
+📥 **Full project file (Excel):**  
+👉 [Download here](https://docs.google.com/spreadsheets/d/1fpD6RYGEXoB5SBDRYV7mKPJLPsKs_ryJ/edit?usp=sharing&ouid=114257032345079777376&rtpof=true&sd=true)
 
 
 ## 🧩 Data Preparation
