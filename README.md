@@ -31,7 +31,7 @@ The full analytical file used in this project (including data model, transformat
 
 📥 **Full project file (Excel):**  
 
-👉 [Download here](https://docs.google.com/spreadsheets/d/1fpD6RYGEXoB5SBDRYV7mKPJLPsKs_ryJ/edit?usp=sharing&ouid=114257032345079777376&rtpof=true&sd=true)
+👉 [Download here](https://drive.google.com/drive/folders/1DflD_mxzoq3mPHjqHFj1kvemxZfRWp-O?usp=drive_link)
 
 
 ## 🧩 Data Preparation
