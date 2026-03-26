@@ -19,12 +19,6 @@ This project shows the analytical workflow I use in my current role in retail cl
 - [Future Business Opportunities](#-Future-Business-Opportunities)
 - [Key Analytical Insights](#-Key-Analytical-Insights)
 
-
-## 📥 Data Collection
-
-At the beginning of each week, I export sales data from Tableau, including both last week’s sales and cumulative sales. However, the reports do not include all product attributes needed for detailed analysis. In addition, it is not possible to export both weekly and cumulative data for articles in a single report. Because of this, I extract two separate datasets and combine them into one structure.
-To do this, I use Excel and pivot tables to match and merge the data from both exports. This approach speeds up data preparation and ensures consistent comparison between weekly and cumulative performance.
-
 ## 📂 Data Access
 
 The full analytical file used in this project (including data model, transformations, and dashboard outputs) exceeds GitHub file size limits and is not included directly in the repository.
@@ -32,6 +26,11 @@ The full analytical file used in this project (including data model, transformat
 📥 **Full project file (Excel):**  
 
 👉 [Download here](https://drive.google.com/drive/folders/1DflD_mxzoq3mPHjqHFj1kvemxZfRWp-O?usp=drive_link)
+
+## 📥 Data Collection
+
+At the beginning of each week, I export sales data from Tableau, including both last week’s sales and cumulative sales. However, the reports do not include all product attributes needed for detailed analysis. In addition, it is not possible to export both weekly and cumulative data for articles in a single report. Because of this, I extract two separate datasets and combine them into one structure.
+To do this, I use Excel and pivot tables to match and merge the data from both exports. This approach speeds up data preparation and ensures consistent comparison between weekly and cumulative performance.
 
 
 ## 🧩 Data Preparation
