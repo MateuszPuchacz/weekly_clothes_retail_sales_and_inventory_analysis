@@ -14,7 +14,6 @@ This project shows the analytical workflow I use in my current role in retail cl
 - [Tools & Technologies](#-Tools-&-Technologies)
 - [Excel Report Automation Logic](#-Excel-Report-Automation-Logic)
 - [Exploratory Business Analysis](#-Exploratory-Business-Analysis)
-- [Final Business Insights](#-Final-Business-Insights)
 - [Additional Pivot Analysis](#-Additional-Pivot-Analysis)
 - [Future Business Opportunities](#-Future-Business-Opportunities)
 - [Key Analytical Insights](#-Key-Analytical-Insights)
