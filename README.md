@@ -10,7 +10,6 @@ This project shows the analytical workflow I use in my current role in retail cl
 - [Data Collection](#-Data-Collection)
 - [Data Preparation](#-data-preparation)
 - [Product Data Management](#-product-data-management)
-- [Product Data Management](#-product-data-management)
 - [Data Disclaimer](#-Data-Disclaimer)
 - [Tools & Technologies](#-Tools-&-Technologies)
 - [Excel Report Automation Logic](#-Excel-Report-Automation-Logic)
