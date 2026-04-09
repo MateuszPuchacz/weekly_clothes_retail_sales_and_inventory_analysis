@@ -25,7 +25,16 @@ The full analytical file used in this project (including data model, transformat
 
 📥 **Full project file (Excel):**  
 
-👉 [Download here](https://drive.google.com/drive/folders/1FGlWdT7WBeoRB3WB3acZznb2r1rtwRVR)
+👉 [Download and check here](https://drive.google.com/drive/folders/1FGlWdT7WBeoRB3WB3acZznb2r1rtwRVR)
+
+**Included files:**
+
+weekly_report_full_version – complete report (data model, transformations, dashboards)
+weekly_report_1 – simplified version available in Google Sheets (adjusted layout)
+weekly_report_2 (p1 & p2) – dashboard views (total + single store example)
+pivot_tables (p1 & p2) – supporting pivot table screenshots
+
+**Note:** Some views are presented as static outputs due to Google Sheets limitations in replicating Excel pivot table structure.
 
 ## 📥 Data Collection
 
