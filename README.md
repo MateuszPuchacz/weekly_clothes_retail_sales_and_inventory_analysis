@@ -25,7 +25,7 @@ The full analytical file used in this project (including data model, transformat
 
 📥 **Full project file (Excel):**  
 
-👉 [Download here](https://drive.google.com/drive/folders/1DflD_mxzoq3mPHjqHFj1kvemxZfRWp-O?usp=drive_link)
+👉 [Download here](https://drive.google.com/drive/folders/1FGlWdT7WBeoRB3WB3acZznb2r1rtwRVR)
 
 ## 📥 Data Collection
 
