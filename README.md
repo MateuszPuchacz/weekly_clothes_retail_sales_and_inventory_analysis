@@ -11,7 +11,7 @@ This project shows the analytical workflow I use in my current role in retail cl
 - [Data Preparation](#-data-preparation)
 - [Product Data Management](#product-data-management)
 - [Data Disclaimer](#data-disclaimer)
-- [Tools & Technologies](#-Tools-&-Technologies)
+- [Tools & Technologies](#tools--technologies)
 - [Excel Report Automation Logic](#-Excel-Report-Automation-Logic)
 - [Exploratory Business Analysis](#-Exploratory-Business-Analysis)
 - [Additional Pivot Analysis](#-Additional-Pivot-Analysis)
@@ -75,7 +75,7 @@ All datasets used in this repository are fully simulated and were generated with
 Despite being simulated, the dataset follows realistic business logic and allows for meaningful analysis. The results presented in this project show how data can be explored, interpreted, and turned into business insights, similar to real retail analysis.
 
 
-<a id="product-data-management"></a>
+<a id="tools-technologies"></a>
 ## 🛠 Tools & Technologies
 
 - **Microsoft Excel** – used to prepare reporting files, combine datasets, and structure the analytical model.
