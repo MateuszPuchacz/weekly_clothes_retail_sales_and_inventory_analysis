@@ -12,7 +12,7 @@ This project shows the analytical workflow I use in my current role in retail cl
 - [Product Data Management](#product-data-management)
 - [Data Disclaimer](#data-disclaimer)
 - [Tools & Technologies](#tools-&-technologies)
-- [Excel Report Automation Logic](#-Excel-Report-Automation-Logic)
+- [Excel Report Automation Logic](#Excel-Report-Automation-Logic)
 - [Exploratory Business Analysis](#-Exploratory-Business-Analysis)
 - [Additional Pivot Analysis](#-Additional-Pivot-Analysis)
 - [Future Business Opportunities](#-Future-Business-Opportunities)
