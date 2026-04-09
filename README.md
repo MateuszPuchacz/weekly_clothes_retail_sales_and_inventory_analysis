@@ -81,7 +81,7 @@ Despite being simulated, the dataset follows realistic business logic and allows
 - **Microsoft Excel** – used to prepare reporting files, combine datasets, and structure the analytical model.
 - **AI (ChatGPT)** – used to generate the simulated dataset included in the "data" worksheet.
 
-<a id="product-data-management"></a>
+<a id="excel-report-automation-logic"></a>
 ## ⚙️ Excel Report Automation Logic
 
 
