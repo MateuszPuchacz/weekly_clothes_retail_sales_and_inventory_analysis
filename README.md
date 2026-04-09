@@ -68,20 +68,20 @@ These files act as lookup tables, allowing missing attributes to be added to the
 I also keep data consistent across team files by updating control files used for price setting and refreshing all related data after each product update.
 In my current role, I am responsible for three product departments and process around 1 million records per week. Due to system limitations (Excel row limits), I prepare separate files for different departments.
 
-
+<a id="product-data-management"></a>
 ## ⚠️ Data Disclaimer
 
 All datasets used in this repository are fully simulated and were generated with AI assistance and manual adjustments. The structure of the files reflects real analytical workflows I use in my work, but the data itself does not contain any confidential or proprietary business information.
 Despite being simulated, the dataset follows realistic business logic and allows for meaningful analysis. The results presented in this project show how data can be explored, interpreted, and turned into business insights, similar to real retail analysis.
 
 
-
+<a id="product-data-management"></a>
 ## 🛠 Tools & Technologies
 
 - **Microsoft Excel** – used to prepare reporting files, combine datasets, and structure the analytical model.
 - **AI (ChatGPT)** – used to generate the simulated dataset included in the "data" worksheet.
 
-
+<a id="product-data-management"></a>
 ## ⚙️ Excel Report Automation Logic
 
 
