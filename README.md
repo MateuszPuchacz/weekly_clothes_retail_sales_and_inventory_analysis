@@ -32,7 +32,7 @@ This project shows the analytical workflow I use in my current role in retail cl
 - **weekly_report_2 (p1 & p2)** – dashboard views (total + single store example)
 - **pivot_tables (p1 & p2)** – supporting pivot table screenshots
 
-⚠️Only **weekly_report_1** is available as a viewable online in GoogleSheet version and full version after download in Excel. Other reports are presented as screenshots due to differences in pivot table behavior and layout between Excel and Google Sheets, which may affect data structure in dashboards and readability.⚠️
+⚠️Only **weekly_report_1** is available as a viewable online in GoogleSheet version and full version after download in Excel. Other reports are presented as screenshots due to differences in pivot table behavior and layout between Excel and Google Sheets, which may affect data structure in dashboards and readability.
 
 ## 📥 Data Collection
 
