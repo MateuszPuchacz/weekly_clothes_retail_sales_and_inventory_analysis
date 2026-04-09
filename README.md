@@ -8,7 +8,7 @@ This project shows the analytical workflow I use in my current role in retail cl
 
 ## 📑 Table of Content
 - [Data Collection](#-Data-Collection)
-- [Data Preparation](#-data-preparation)
+- [Data Preparation](#data-preparation)
 - [Product Data Management](#-product-data-management)
 - [Data Disclaimer](#-Data-Disclaimer)
 - [Tools & Technologies](#-Tools-&-Technologies)
@@ -17,6 +17,7 @@ This project shows the analytical workflow I use in my current role in retail cl
 - [Additional Pivot Analysis](#-Additional-Pivot-Analysis)
 - [Future Business Opportunities](#-Future-Business-Opportunities)
 - [Key Analytical Insights](#-Key-Analytical-Insights)
+
 
 ## 📂 Data Access
 
