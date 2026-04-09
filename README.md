@@ -9,7 +9,7 @@ This project shows the analytical workflow I use in my current role in retail cl
 ## 📑 Table of Content
 - [Data Collection](#-Data-Collection)
 - [Data Preparation](#-data-preparation)
-- [Product Data Management](#product-data-management)
+- [Product Data Management](#-product-data-management)
 - [Data Disclaimer](#-Data-Disclaimer)
 - [Tools & Technologies](#-Tools-&-Technologies)
 - [Excel Report Automation Logic](#-Excel-Report-Automation-Logic)
@@ -51,7 +51,7 @@ They also include store names, as the source system provides only store ID's. Ba
 Each product has a unique product number, which allows missing attributes to be matched and added to the Tableau export files.
 At this stage, basic **data cleaning 🧹 and validation 🧱** are performed to ensure consistency. This includes checking for missing values, verifying product identifiers, standardizing formats, and resolving inconsistencies between datasets and reference files.
 
-## ⚙️ **Product Data Management**
+## ⚙️ Product Data Management
 
 As part of my role, I create internal product reference files used for data integration.
 
