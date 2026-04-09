@@ -21,7 +21,7 @@ This project shows the analytical workflow I use in my current role in retail cl
 
 ## 📂 Data Access
 
-The full analytical file used in this project (including data model, transformations, and dashboard outputs) exceeds GitHub file size limits and is not included directly in the repository.
+Note: Only **weekly_report_1** is available as a viewable GoogleSheet version. Other reports are presented as screenshots due to differences in pivot table behavior and layout between Excel and Google Sheets, which may affect data structure in dashboards and readability.
 
 📥 **Full project file (Excel):**  
 
