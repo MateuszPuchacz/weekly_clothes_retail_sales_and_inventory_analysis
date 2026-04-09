@@ -765,12 +765,3 @@ Better alignment between local demand and stock distribution can increase sales 
 
 
 
-
-
-
-**This project shows how retail sales data can be turned into actionable business insights using Excel based workflows.**
-
-
-
-
-
